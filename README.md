@@ -4,7 +4,8 @@ This is a place to share the presentations, blog posts, papers, tutorials etc. I
 **Course list**
 | Course      | Learning point | Status     |
 | :---        | :----          | :---       |
-| [50 CVES IN 50 DAYS: FUZZING ADOBE READER](https://research.checkpoint.com/2018/50-adobe-cves-in-50-days/)	| fuzzing	| Not started	|
+| [50 CVES IN 50 DAYS: FUZZING ADOBE READER](https://research.checkpoint.com/2018/50-adobe-cves-in-50-days/)	| Windows userspace fuzzing	| Not started	|
+| [BUGS ON THE WINDSHIELD: FUZZING THE WINDOWS KERNEL](https://research.checkpoint.com/2020/bugs-on-the-windshield-fuzzing-the-windows-kernel/)		| Windows kernel fuzzing	| Not started	|
 | [How to crash a famous JS engine for fun](https://0xninja.fr/bggp3/#fuzzing)      |	JS engine fuzzing     | Not started  |
 | [automatic fuzz chromium from a easy way](https://paper.seebug.org/2012/)	|	fuzzing chromium, automation	| Not started	|
 | [Evaluating IoT firmware through emulation and fuzzing](https://www.jtsec.es/blog-entry/113/evaluating-iot-firmware-through-emulation-and-fuzzing)	| fuzzing fireware, emulation	| Not started	|
@@ -15,18 +16,28 @@ This is a place to share the presentations, blog posts, papers, tutorials etc. I
 | [Fuzzing Like A Caveman](https://h0mbre.github.io/Fuzzing-Like-A-Caveman/#)	| implementing fuzzing from scratch	| Not started	|
 | [A Methodical Approach to Browser Exploitation](https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/)	| browser exploitation	| Not started	|
 | [FUZZORIGIN: Detecting UXSS vulnerabilities in Browsers through Origin Fuzzing](https://lifeasageek.github.io/papers/sunwoo-fuzzorigin.pdf)	| browser logic bugs fuzzing	| Not started	|
+| [Effectively Fuzzing the IPC Layer in Firefox](https://blog.mozilla.org/attack-and-defense/2021/01/27/effectively-fuzzing-the-ipc-layer-in-firefox/)	|	Firefox IPC fuzzing	|	Not started	|
+| [Examining JavaScript Inter-Process Communication in Firefox](https://blog.mozilla.org/attack-and-defense/2021/04/27/examining-javascript-inter-process-communication-in-firefox/)	|	Firefox IPC in Javascript	|	Not started	|
+| [Guest Blog Post: Good First Steps to Find Security Bugs in Fenix (Part 1)](https://blog.mozilla.org/attack-and-defense/2020/12/08/good-first-steps-in-fenix-part-1/)		|	Bug hunting in Fenix (Android Firefox)	|	Not started	|
 | [FuzzGen: Automatic Fuzzer Generation](https://www.usenix.org/system/files/sec20fall_ispoglou_prepub.pdf)		| fuzzer generation	| Not started	|
 | [Fuzzle: Making a Puzzle for Fuzzers](https://softsec.kaist.ac.kr/~sangkilc/papers/lee-ase22.pdf)	| fuzzers benchmarking	| Not started	|
+| [Evaluating Fuzz Testing](https://www.youtube.com/watch?v=ID8XtoMn43I)	|	Evaluate fuzzing techniques	|	Not started	|
+| [FuzzBench: Fuzzer Benchmarking As a Service](https://google.github.io/fuzzbench/)	|	Google's fuzzer benmarking	|	Not started	|
+| [How to Spot Good Fuzzing Research](https://blog.trailofbits.com/2018/10/05/how-to-spot-good-fuzzing-research/)	|	Picking fuzzing research papers	|	Not started	|
 | [FUZZIFICATION: Anti-Fuzzing Techniques](https://www.usenix.org/system/files/sec19fall_jung_prepub.pdf)		| anti-fuzzing		| Not started	|
 | [35C3 - The Layman's Guide to Zero-Day Engineering](https://www.youtube.com/watch?v=WbuGMs2OcbE&t=87s)        |       Exploit development     | Not started   |
 | [Learning Linux Kernel Exploitation](https://lkmidas.github.io/posts/20210123-linux-kernel-pwn-part-1/)	| Linux kernel exploitation	| Not started	|
+| [OffensiveCon23 - Alex Plaskett & Cedric Halbronn - Exploit Engineering – Attacking the Linux Kernel](https://www.youtube.com/watch?v=9wgHENj_YNk)	|	Reliable linux kernel exploit development	| Not started	|
 | [CVE-2020-8835: LINUX KERNEL PRIVILEGE ESCALATION VIA IMPROPER EBPF PROGRAM VERIFICATION](https://www.zerodayinitiative.com/blog/2020/4/8/cve-2020-8835-linux-kernel-privilege-escalation-via-improper-ebpf-program-verification)	| linux kernel exploitation, eBPF	| Not started	|
 | [Fuzzing for eBPF JIT bugs in the Linux kernel](https://scannell.io/posts/ebpf-fuzzing/)	| linux kernel exploitation, eBPF, fuzzing	| Not started	|
+| [Call the plumber – You have a leak in your (named) pipe](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEF%20CON%2025%20-%20Gil-Cohen-Call-The-Plumber-You-Have-A-Leak-In-Your-%28named%29-Pipe-UPDATED.pdf)	|	(windows) named pipe exploits	|	Not started	|
+| [Offensive Windows IPC Internals 1: Named Pipes](https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html)	|	Windows IPC explots	|	Not started	|
 | [CodeQL zero to hero part 1: the fundamentals of static analysis for vulnerability research](https://github.blog/2023-03-31-codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research/)	| static analysis theory, codeQL	| Not started	|
 | [How I Hacked my Car](https://programmingwithstyle.com/posts/howihackedmycar/)	| Car hacking	| Not started	|
 | [Mastering the Art of SOC Analysis Part 1 | Fundamental Skills for Aspiring Security Operations Center Analysts](https://www.sentinelone.com/blog/mastering-the-art-of-soc-analysis-part-1/)	| SOC	| Not started	|
 | [Low-Level Process Hunting on macos](https://themittenmac.com/low-level-process-hunting-on-macos/)	| Mac threat hunting	| Not started	|
 | [RESEARCHING VPN APPLICATIONS](https://www.securify.nl/blog/reseaching-vpn-applications-part-1-vpn-internals/)	|	Reverse Engineering VPN app	| Not started	|
+| [Methodology for Static Reverse Engineering of Windows Kernel Drivers](https://posts.specterops.io/methodology-for-static-reverse-engineering-of-windows-kernel-drivers-3115b2efed83)		|	Windows kernel drivers reverse engineering	|	Not started	|
 | [Building an offensive Windows RPC interface](https://blog.whiteflag.io/blog/weaponizing-windows-rpc-interfaces/)	|	build RPC interface	| Not started	|
 | [macOS reflective code loading analysis](https://hackd.net/posts/macos-reflective-code-loading-analysis/)	|	place holder	| Not started	|
 | [Toxic Proxies - Bypassing HTTPS & VPNs to pwn your online identity](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEF%20CON%2024%20-%20Chapman-Stone-Toxic-Proxies-Bypassing-HTTPS-and-VPNs-UPDATED.pdf)	| VPN bypass, privacy leak	| Not started	|
