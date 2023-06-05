@@ -19,6 +19,7 @@ This is a place to share the presentations, blog posts, papers, tutorials etc. I
 | [Effectively Fuzzing the IPC Layer in Firefox](https://blog.mozilla.org/attack-and-defense/2021/01/27/effectively-fuzzing-the-ipc-layer-in-firefox/)	|	Firefox IPC fuzzing	|	Not started	|
 | [Examining JavaScript Inter-Process Communication in Firefox](https://blog.mozilla.org/attack-and-defense/2021/04/27/examining-javascript-inter-process-communication-in-firefox/)	|	Firefox IPC in Javascript	|	Not started	|
 | [Guest Blog Post: Good First Steps to Find Security Bugs in Fenix (Part 1)](https://blog.mozilla.org/attack-and-defense/2020/12/08/good-first-steps-in-fenix-part-1/)		|	Bug hunting in Fenix (Android Firefox)	|	Not started	|
+| [Efficient Approach to Fuzzing Interpreters](https://paper.bobylive.com/Meeting_Papers/BlackHat/Asia-2019/bh-asia-Dominiak-Efficient-Approach-to-Fuzzing-Interpreters.pdf)	|	Interpreter bugs, fuzzing interpreters	| Not started	|
 | [FuzzGen: Automatic Fuzzer Generation](https://www.usenix.org/system/files/sec20fall_ispoglou_prepub.pdf)		| fuzzer generation	| Not started	|
 | [Fuzzle: Making a Puzzle for Fuzzers](https://softsec.kaist.ac.kr/~sangkilc/papers/lee-ase22.pdf)	| fuzzers benchmarking	| Not started	|
 | [Evaluating Fuzz Testing](https://www.youtube.com/watch?v=ID8XtoMn43I)	|	Evaluate fuzzing techniques	|	Not started	|
@@ -26,12 +27,15 @@ This is a place to share the presentations, blog posts, papers, tutorials etc. I
 | [How to Spot Good Fuzzing Research](https://blog.trailofbits.com/2018/10/05/how-to-spot-good-fuzzing-research/)	|	Picking fuzzing research papers	|	Not started	|
 | [FUZZIFICATION: Anti-Fuzzing Techniques](https://www.usenix.org/system/files/sec19fall_jung_prepub.pdf)		| anti-fuzzing		| Not started	|
 | [35C3 - The Layman's Guide to Zero-Day Engineering](https://www.youtube.com/watch?v=WbuGMs2OcbE&t=87s)        |       Exploit development     | Not started   |
+| [Building a Basic Fuzzer with GDB: The Five Minute GDB Scripting Tutorial](https://web.archive.org/web/20150221191059/http://www.praetorian.com/blog/building-a-basic-fuzzer-with-gdb-the-five-minute-gdb-scripting-tutorial)	|	GDB scripting, writing fuzzer in gdb	| 	Not started	|
 | [Learning Linux Kernel Exploitation](https://lkmidas.github.io/posts/20210123-linux-kernel-pwn-part-1/)	| Linux kernel exploitation	| Not started	|
 | [OffensiveCon23 - Alex Plaskett & Cedric Halbronn - Exploit Engineering – Attacking the Linux Kernel](https://www.youtube.com/watch?v=9wgHENj_YNk)	|	Reliable linux kernel exploit development	| Not started	|
 | [CVE-2020-8835: LINUX KERNEL PRIVILEGE ESCALATION VIA IMPROPER EBPF PROGRAM VERIFICATION](https://www.zerodayinitiative.com/blog/2020/4/8/cve-2020-8835-linux-kernel-privilege-escalation-via-improper-ebpf-program-verification)	| linux kernel exploitation, eBPF	| Not started	|
 | [Fuzzing for eBPF JIT bugs in the Linux kernel](https://scannell.io/posts/ebpf-fuzzing/)	| linux kernel exploitation, eBPF, fuzzing	| Not started	|
+| [You can be a kernel hacker!](https://jvns.ca/blog/2014/09/18/you-can-be-a-kernel-hacker/)	|	Starting linux kernel development	|	Not started	|
 | [Call the plumber – You have a leak in your (named) pipe](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEF%20CON%2025%20-%20Gil-Cohen-Call-The-Plumber-You-Have-A-Leak-In-Your-%28named%29-Pipe-UPDATED.pdf)	|	(windows) named pipe exploits	|	Not started	|
 | [Offensive Windows IPC Internals 1: Named Pipes](https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html)	|	Windows IPC explots	|	Not started	|
+| [Mobile Exploitation, the past, present, and future](https://github.com/externalist/presentations/blob/master/2023%20Zer0con/Mobile%20Exploitation%2C%20the%20past%2C%20present%2C%20and%20future.pdf)	|	Mobile exploitations	|	Not started	|
 | [CodeQL zero to hero part 1: the fundamentals of static analysis for vulnerability research](https://github.blog/2023-03-31-codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research/)	| static analysis theory, codeQL	| Not started	|
 | [How I Hacked my Car](https://programmingwithstyle.com/posts/howihackedmycar/)	| Car hacking	| Not started	|
 | [Mastering the Art of SOC Analysis Part 1 | Fundamental Skills for Aspiring Security Operations Center Analysts](https://www.sentinelone.com/blog/mastering-the-art-of-soc-analysis-part-1/)	| SOC	| Not started	|
