@@ -4,6 +4,10 @@ This is a place to share the presentations, blog posts, papers, tutorials etc. I
 **Course list**
 | Course      | Learning point | Status     |
 | :---        | :----          | :---       |
+| [The Smart Fuzzer Revolution by Dan Guido](https://www.youtube.com/watch?v=g1E2Ce5cBhI)	|	History and future (from 2016 POV) of fuzzing	|	Not started	|
+| [Parser Parser Combinators for Program Transformation](https://www.youtube.com/watch?v=JMZLBB_BFNg)	|	Story behind comby.dev	|	Not started	|
+| [Deconstructing programs for compiler fuzzing](https://comby.dev/blog/2022/04/11/comby-decomposer-compiler-fuzzing)	|	Compiler fuzzing	|	Not started	|
+| [Inside the Black Box | How We Fuzzed Microsoft Defender for IoT and Found Multiple Vulnerabilities](https://www.sentinelone.com/labs/inside-the-black-box-how-we-fuzzed-microsoft-defender-for-iot-and-found-multiple-vulnerabilities/)	|	Fuzzing microsoft defender	|	Not started	|
 | [50 CVES IN 50 DAYS: FUZZING ADOBE READER](https://research.checkpoint.com/2018/50-adobe-cves-in-50-days/)	| Windows userspace fuzzing	| Not started	|
 | [BUGS ON THE WINDSHIELD: FUZZING THE WINDOWS KERNEL](https://research.checkpoint.com/2020/bugs-on-the-windshield-fuzzing-the-windows-kernel/)		| Windows kernel fuzzing	| Not started	|
 | [How to crash a famous JS engine for fun](https://0xninja.fr/bggp3/#fuzzing)      |	JS engine fuzzing     | Not started  |
