@@ -5,6 +5,7 @@ This is a place to share the presentations, blog posts, papers, tutorials etc. I
 | Course      | Learning point | Status     |
 | :---        | :----          | :---       |
 | [The Smart Fuzzer Revolution by Dan Guido](https://www.youtube.com/watch?v=g1E2Ce5cBhI)	|	History and future (from 2016 POV) of fuzzing	|	Not started	|
+| [Fuzzing Like It’s 1989](https://blog.trailofbits.com/2018/12/31/fuzzing-like-its-1989/)	|	placeholder	|	Not started	|
 | [Parser Parser Combinators for Program Transformation](https://www.youtube.com/watch?v=JMZLBB_BFNg)	|	Story behind comby.dev	|	Not started	|
 | [Deconstructing programs for compiler fuzzing](https://comby.dev/blog/2022/04/11/comby-decomposer-compiler-fuzzing)	|	Compiler fuzzing	|	Not started	|
 | [Inside the Black Box | How We Fuzzed Microsoft Defender for IoT and Found Multiple Vulnerabilities](https://www.sentinelone.com/labs/inside-the-black-box-how-we-fuzzed-microsoft-defender-for-iot-and-found-multiple-vulnerabilities/)	|	Fuzzing microsoft defender	|	Not started	|
@@ -13,6 +14,7 @@ This is a place to share the presentations, blog posts, papers, tutorials etc. I
 | [How to crash a famous JS engine for fun](https://0xninja.fr/bggp3/#fuzzing)      |	JS engine fuzzing     | Not started  |
 | [automatic fuzz chromium from a easy way](https://paper.seebug.org/2012/)	|	fuzzing chromium, automation	| Not started	|
 | [Evaluating IoT firmware through emulation and fuzzing](https://www.jtsec.es/blog-entry/113/evaluating-iot-firmware-through-emulation-and-fuzzing)	| fuzzing fireware, emulation	| Not started	|
+| [Fuzzing Hardware Like Software](https://www.usenix.org/conference/usenixsecurity22/presentation/trippel)	|	Hardware fuzzing	|	Not started	|
 | [Fuzzing sockets, part 1: FTP servers](https://securitylab.github.com/research/fuzzing-sockets-FTP/)	| socket-based fuzzing	| Not started	|
 | [Introduction to VirtualBox security research](https://blog.doyensec.com/2022/04/26/vbox-fuzzing.html)	|	Network device drivers fuzzing	| Not started	|
 | [Fuzz the Unfuzzable](https://netsec.expert/posts/fuzz-the-unfuzzable/)	| fuzzing non-crashing bugs	| Not started	|
@@ -37,6 +39,8 @@ This is a place to share the presentations, blog posts, papers, tutorials etc. I
 | [CVE-2020-8835: LINUX KERNEL PRIVILEGE ESCALATION VIA IMPROPER EBPF PROGRAM VERIFICATION](https://www.zerodayinitiative.com/blog/2020/4/8/cve-2020-8835-linux-kernel-privilege-escalation-via-improper-ebpf-program-verification)	| linux kernel exploitation, eBPF	| Not started	|
 | [Fuzzing for eBPF JIT bugs in the Linux kernel](https://scannell.io/posts/ebpf-fuzzing/)	| linux kernel exploitation, eBPF, fuzzing	| Not started	|
 | [You can be a kernel hacker!](https://jvns.ca/blog/2014/09/18/you-can-be-a-kernel-hacker/)	|	Starting linux kernel development	|	Not started	|
+| [Advanced Windows exploit development resources](https://github.com/FULLSHADE/WindowsExploitationResources)	|	Windows exploit dev	|	Not started	|
+| [awesome windows logical bugs](https://github.com/sailay1996/awesome_windows_logical_bugs)	|	windows logical LPE	|	Not started	|
 | [Call the plumber – You have a leak in your (named) pipe](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEF%20CON%2025%20-%20Gil-Cohen-Call-The-Plumber-You-Have-A-Leak-In-Your-%28named%29-Pipe-UPDATED.pdf)	|	(windows) named pipe exploits	|	Not started	|
 | [Offensive Windows IPC Internals 1: Named Pipes](https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html)	|	Windows IPC explots	|	Not started	|
 | [Mobile Exploitation, the past, present, and future](https://github.com/externalist/presentations/blob/master/2023%20Zer0con/Mobile%20Exploitation%2C%20the%20past%2C%20present%2C%20and%20future.pdf)	|	Mobile exploitations	|	Not started	|
@@ -44,11 +48,14 @@ This is a place to share the presentations, blog posts, papers, tutorials etc. I
 | [How I Hacked my Car](https://programmingwithstyle.com/posts/howihackedmycar/)	| Car hacking	| Not started	|
 | [Mastering the Art of SOC Analysis Part 1 | Fundamental Skills for Aspiring Security Operations Center Analysts](https://www.sentinelone.com/blog/mastering-the-art-of-soc-analysis-part-1/)	| SOC	| Not started	|
 | [Low-Level Process Hunting on macos](https://themittenmac.com/low-level-process-hunting-on-macos/)	| Mac threat hunting	| Not started	|
+| [Ten process injection techniques: A technical survey of common and trending process injection techniques](https://www.elastic.co/blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)		|	Malwares, process injections	|	Not started	|
 | [RESEARCHING VPN APPLICATIONS](https://www.securify.nl/blog/reseaching-vpn-applications-part-1-vpn-internals/)	|	Reverse Engineering VPN app	| Not started	|
+| [Automated Reverse Engineering of Relationships Between Data Structures in C++ Binaries](https://research.nccgroup.com/wp-content/uploads/episerver-images/assets/2dd73140d5c6453f9fb079ac5374b1b0/2dd73140d5c6453f9fb079ac5374b1b0.pdf)	|	Windows, automated reverse engineering	|	Not started	|
 | [Methodology for Static Reverse Engineering of Windows Kernel Drivers](https://posts.specterops.io/methodology-for-static-reverse-engineering-of-windows-kernel-drivers-3115b2efed83)		|	Windows kernel drivers reverse engineering	|	Not started	|
 | [Building an offensive Windows RPC interface](https://blog.whiteflag.io/blog/weaponizing-windows-rpc-interfaces/)	|	build RPC interface	| Not started	|
 | [macOS reflective code loading analysis](https://hackd.net/posts/macos-reflective-code-loading-analysis/)	|	place holder	| Not started	|
 | [Toxic Proxies - Bypassing HTTPS & VPNs to pwn your online identity](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEF%20CON%2024%20-%20Chapman-Stone-Toxic-Proxies-Bypassing-HTTPS-and-VPNs-UPDATED.pdf)	| VPN bypass, privacy leak	| Not started	|
+| [NASM Assembly Language Tutorials](https://asmtutor.com/)	|	x86 NASM assembly	|	Not started	|
 | [INTRODUCTION TO ARM ASSEMBLY BASICS](https://azeria-labs.com/writing-arm-assembly-part-1/)	| 	ARM assembly	| Not started	|
 | [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)	|	place holder	| Not started	|
 | [RECOVERING A FULL PEM PRIVATE KEY WHEN HALF OF IT IS REDACTED](https://blog.cryptohack.org/twitter-secrets)	|	Cryptography	| Not started	|
