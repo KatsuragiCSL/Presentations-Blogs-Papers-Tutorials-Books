@@ -48,6 +48,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [macOS Vulnerabilities Hiding in Plain Sight](https://www.youtube.com/watch?v=Nvpo-kP6C9s)	|	Mac Exploits	|	Not started	|
 | [Mobile Exploitation, the past, present, and future](https://github.com/externalist/presentations/blob/master/2023%20Zer0con/Mobile%20Exploitation%2C%20the%20past%2C%20present%2C%20and%20future.pdf)	|	Mobile exploitations	|	Not started	|
 | [CodeQL zero to hero part 1: the fundamentals of static analysis for vulnerability research](https://github.blog/2023-03-31-codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research/)	| static analysis theory, codeQL	| Not started	|
+| [Automating binary vulnerability discovery with Ghidra and Semgrep](https://security.humanativaspa.it/automating-binary-vulnerability-discovery-with-ghidra-and-semgrep/)	|	automated static analysis	|	Not started	|
 | [How I Hacked my Car](https://programmingwithstyle.com/posts/howihackedmycar/)	| Car hacking	| Not started	|
 | [Mastering the Art of SOC Analysis Part 1 | Fundamental Skills for Aspiring Security Operations Center Analysts](https://www.sentinelone.com/blog/mastering-the-art-of-soc-analysis-part-1/)	| SOC	| Not started	|
 | [Low-Level Process Hunting on macos](https://themittenmac.com/low-level-process-hunting-on-macos/)	| Mac threat hunting	| Not started	|
@@ -60,6 +61,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Toxic Proxies - Bypassing HTTPS & VPNs to pwn your online identity](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEF%20CON%2024%20-%20Chapman-Stone-Toxic-Proxies-Bypassing-HTTPS-and-VPNs-UPDATED.pdf)	| VPN bypass, privacy leak	| Not started	|
 | [NASM Assembly Language Tutorials](https://asmtutor.com/)	|	x86 NASM assembly	|	Not started	|
 | [INTRODUCTION TO ARM ASSEMBLY BASICS](https://azeria-labs.com/writing-arm-assembly-part-1/)	| 	ARM assembly	| Not started	|
+| [Espressif ESP32: Breaking HW AES with Power Analysis](https://raelize.com/blog/espressif-systems-esp32-breaking-hw-aes-with-power-analysis/)		|	Hardware side channels	|	Not started	|
 | [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)	|	place holder	| Not started	|
 | [RECOVERING A FULL PEM PRIVATE KEY WHEN HALF OF IT IS REDACTED](https://blog.cryptohack.org/twitter-secrets)	|	Cryptography	| Not started	|
 | [Stealing Bitcoin with Math](https://www.youtube.com/watch?v=f2s3_UG9IPU)	|	Cryptocurrency	|	Not started	|
