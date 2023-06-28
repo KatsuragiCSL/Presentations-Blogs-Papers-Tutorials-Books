@@ -1,5 +1,5 @@
-# Presentations-Blogs-Papers-Tutorials
-This is a place to share the presentations, blog posts, papers, tutorials etc. I have watched/ planed to watch, related to technology/ learning.
+# Presentations-Blogs-Papers-Tutorials-Books
+This is a place to share the presentations, blog posts, papers, tutorials, books etc. I have watched/ planed to watch, related to technology/ learning.
 
 **Course list**
 | Course      | Learning point | Status     |
@@ -8,7 +8,9 @@ This is a place to share the presentations, blog posts, papers, tutorials etc. I
 | [Fuzzing Like It’s 1989](https://blog.trailofbits.com/2018/12/31/fuzzing-like-its-1989/)	|	placeholder	|	Not started	|
 | [Parser Parser Combinators for Program Transformation](https://www.youtube.com/watch?v=JMZLBB_BFNg)	|	Story behind comby.dev	|	Not started	|
 | [Deconstructing programs for compiler fuzzing](https://comby.dev/blog/2022/04/11/comby-decomposer-compiler-fuzzing)	|	Compiler fuzzing	|	Not started	|
+| [DNS parser, meet Go fuzzer](https://blog.cloudflare.com/dns-parser-meet-go-fuzzer/)	|	GO fuzzing	|	Not started	|
 | [Inside the Black Box | How We Fuzzed Microsoft Defender for IoT and Found Multiple Vulnerabilities](https://www.sentinelone.com/labs/inside-the-black-box-how-we-fuzzed-microsoft-defender-for-iot-and-found-multiple-vulnerabilities/)	|	Fuzzing microsoft defender	|	Not started	|
+| [A gentle introduction to Linux Kernel fuzzing](https://blog.cloudflare.com/a-gentle-introduction-to-linux-kernel-fuzzing/)	|	Linux kernel fuzzing	|	Not started	|
 | [50 CVES IN 50 DAYS: FUZZING ADOBE READER](https://research.checkpoint.com/2018/50-adobe-cves-in-50-days/)	| Windows userspace fuzzing	| Not started	|
 | [BUGS ON THE WINDSHIELD: FUZZING THE WINDOWS KERNEL](https://research.checkpoint.com/2020/bugs-on-the-windshield-fuzzing-the-windows-kernel/)		| Windows kernel fuzzing	| Not started	|
 | [How to crash a famous JS engine for fun](https://0xninja.fr/bggp3/#fuzzing)      |	JS engine fuzzing     | Not started  |
@@ -43,6 +45,7 @@ This is a place to share the presentations, blog posts, papers, tutorials etc. I
 | [awesome windows logical bugs](https://github.com/sailay1996/awesome_windows_logical_bugs)	|	windows logical LPE	|	Not started	|
 | [Call the plumber – You have a leak in your (named) pipe](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEF%20CON%2025%20-%20Gil-Cohen-Call-The-Plumber-You-Have-A-Leak-In-Your-%28named%29-Pipe-UPDATED.pdf)	|	(windows) named pipe exploits	|	Not started	|
 | [Offensive Windows IPC Internals 1: Named Pipes](https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html)	|	Windows IPC explots	|	Not started	|
+| [macOS Vulnerabilities Hiding in Plain Sight](https://www.youtube.com/watch?v=Nvpo-kP6C9s)	|	Mac Exploits	|	Not started	|
 | [Mobile Exploitation, the past, present, and future](https://github.com/externalist/presentations/blob/master/2023%20Zer0con/Mobile%20Exploitation%2C%20the%20past%2C%20present%2C%20and%20future.pdf)	|	Mobile exploitations	|	Not started	|
 | [CodeQL zero to hero part 1: the fundamentals of static analysis for vulnerability research](https://github.blog/2023-03-31-codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research/)	| static analysis theory, codeQL	| Not started	|
 | [How I Hacked my Car](https://programmingwithstyle.com/posts/howihackedmycar/)	| Car hacking	| Not started	|
@@ -59,9 +62,11 @@ This is a place to share the presentations, blog posts, papers, tutorials etc. I
 | [INTRODUCTION TO ARM ASSEMBLY BASICS](https://azeria-labs.com/writing-arm-assembly-part-1/)	| 	ARM assembly	| Not started	|
 | [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)	|	place holder	| Not started	|
 | [RECOVERING A FULL PEM PRIVATE KEY WHEN HALF OF IT IS REDACTED](https://blog.cryptohack.org/twitter-secrets)	|	Cryptography	| Not started	|
+| [Stealing Bitcoin with Math](https://www.youtube.com/watch?v=f2s3_UG9IPU)	|	Cryptocurrency	|	Not started	|
 | [Learning to Learn: Math Abstraction](https://betterexplained.com/articles/learning-to-learn-math-abstraction/)	| Learning, Maths	|	Not started	|
 | [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)	|	Learning, programming	| Not started	|
 | [Classic Nintendo Games are (NP-)Hard](https://arxiv.org/pdf/1203.1895v1.pdf)		| place holder	| Not started	|
 | [Fake It Until You Make It: Using Deep Fakes to Bypass Voice Biometrics](https://www.netspi.com/blog/technical/adversary-simulation/using-deep-fakes-to-bypass-voice-biometrics/)	| Deepfake training	| Not started	|
 | [Hakluke: Creating the Perfect Bug Bounty Automation](https://labs.detectify.com/2021/11/30/hakluke-creating-the-perfect-bug-bounty-automation/)	| bug bounty automation	| Not started	|
+| [How I Rob Banks: And Other Such Places](https://www.amazon.com/How-Rob-Banks-Other-Places/dp/1119911478)	|	Physical pentesting, Social engineering	|	Not started	|
 | [How to Build a Product that Scales into a Company](https://www.youtube.com/watch?v=r-98YRAF1dY)      |       Entrepreneurship        | Not started   |
