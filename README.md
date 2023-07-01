@@ -1,9 +1,10 @@
 # Presentations-Blogs-Papers-Tutorials-Books
-This is a place to share the presentations, blog posts, papers, tutorials, books etc. I have watched/ planed to watch, related to technology/ learning.
+This is a place to share the presentations, blog posts, papers, tutorials, books etc. I have watched/ planed to watch, mainly related to hacking & learning.
 
 **Course list**
 | Course      | Learning point | Status     |
 | :---        | :----          | :---       |
+| [An Intro to Fuzzing (AKA Fuzz Testing)](https://bishopfox.com/blog/fuzzing-aka-fuzz-testing)	|	Overview of fuzzing	|	Not started	|
 | [The Smart Fuzzer Revolution by Dan Guido](https://www.youtube.com/watch?v=g1E2Ce5cBhI)	|	History and future (from 2016 POV) of fuzzing	|	Not started	|
 | [Fuzzing Like It’s 1989](https://blog.trailofbits.com/2018/12/31/fuzzing-like-its-1989/)	|	placeholder	|	Not started	|
 | [Parser Parser Combinators for Program Transformation](https://www.youtube.com/watch?v=JMZLBB_BFNg)	|	Story behind comby.dev	|	Not started	|
