@@ -54,6 +54,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Mastering the Art of SOC Analysis Part 1 | Fundamental Skills for Aspiring Security Operations Center Analysts](https://www.sentinelone.com/blog/mastering-the-art-of-soc-analysis-part-1/)	| SOC	| Not started	|
 | [Low-Level Process Hunting on macos](https://themittenmac.com/low-level-process-hunting-on-macos/)	| Mac threat hunting	| Not started	|
 | [Ten process injection techniques: A technical survey of common and trending process injection techniques](https://www.elastic.co/blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)		|	Malwares, process injections	|	Not started	|
+| [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing/)	|	RE tutorials for x86 and ARM	|
 | [RESEARCHING VPN APPLICATIONS](https://www.securify.nl/blog/reseaching-vpn-applications-part-1-vpn-internals/)	|	Reverse Engineering VPN app	| Not started	|
 | [Automated Reverse Engineering of Relationships Between Data Structures in C++ Binaries](https://research.nccgroup.com/wp-content/uploads/episerver-images/assets/2dd73140d5c6453f9fb079ac5374b1b0/2dd73140d5c6453f9fb079ac5374b1b0.pdf)	|	Windows, automated reverse engineering	|	Not started	|
 | [Methodology for Static Reverse Engineering of Windows Kernel Drivers](https://posts.specterops.io/methodology-for-static-reverse-engineering-of-windows-kernel-drivers-3115b2efed83)		|	Windows kernel drivers reverse engineering	|	Not started	|
