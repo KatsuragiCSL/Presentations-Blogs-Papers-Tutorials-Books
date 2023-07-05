@@ -2,8 +2,8 @@
 This is a place to share the presentations, blog posts, papers, tutorials, books etc. I have watched/ planed to watch, mainly related to hacking, coding & learning.
 
 **Course list**
-| Course      | Learning point | Status     |
-| :---        | :----          | :---       |
+| Course      | Learning point | Status     | Works	|
+| :---        | :----          | :---       | :---	|
 | [An Intro to Fuzzing (AKA Fuzz Testing)](https://bishopfox.com/blog/fuzzing-aka-fuzz-testing)	|	Overview of fuzzing	|	Not started	|
 | [The Smart Fuzzer Revolution by Dan Guido](https://www.youtube.com/watch?v=g1E2Ce5cBhI)	|	History and future (from 2016 POV) of fuzzing	|	Not started	|
 | [Fuzzing Like It’s 1989](https://blog.trailofbits.com/2018/12/31/fuzzing-like-its-1989/)	|	placeholder	|	Not started	|
@@ -42,6 +42,8 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [CVE-2020-8835: LINUX KERNEL PRIVILEGE ESCALATION VIA IMPROPER EBPF PROGRAM VERIFICATION](https://www.zerodayinitiative.com/blog/2020/4/8/cve-2020-8835-linux-kernel-privilege-escalation-via-improper-ebpf-program-verification)	| linux kernel exploitation, eBPF	| Not started	|
 | [Fuzzing for eBPF JIT bugs in the Linux kernel](https://scannell.io/posts/ebpf-fuzzing/)	| linux kernel exploitation, eBPF, fuzzing	| Not started	|
 | [You can be a kernel hacker!](https://jvns.ca/blog/2014/09/18/you-can-be-a-kernel-hacker/)	|	Starting linux kernel development	|	Not started	|
+| [Rooting with root cause: finding a variant of a Project Zero bug](https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/)	|	ARM driver bugs writeup	|	Not started	|
+| [Coding a Linux userland rootkit](https://github.com/yo-yo-yo-jbo/linux_userland_rootkit/)	|	linux userland rootkit	|	Not started	|
 | [Advanced Windows exploit development resources](https://github.com/FULLSHADE/WindowsExploitationResources)	|	Windows exploit dev	|	Not started	|
 | [awesome windows logical bugs](https://github.com/sailay1996/awesome_windows_logical_bugs)	|	windows logical LPE	|	Not started	|
 | [Call the plumber – You have a leak in your (named) pipe](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEF%20CON%2025%20-%20Gil-Cohen-Call-The-Plumber-You-Have-A-Leak-In-Your-%28named%29-Pipe-UPDATED.pdf)	|	(windows) named pipe exploits	|	Not started	|
@@ -76,3 +78,4 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Hakluke: Creating the Perfect Bug Bounty Automation](https://labs.detectify.com/2021/11/30/hakluke-creating-the-perfect-bug-bounty-automation/)	| bug bounty automation	| Not started	|
 | [How I Rob Banks: And Other Such Places](https://www.amazon.com/How-Rob-Banks-Other-Places/dp/1119911478)	|	Physical pentesting, Social engineering	|	Not started	|
 | [How to Build a Product that Scales into a Company](https://www.youtube.com/watch?v=r-98YRAF1dY)      |       Entrepreneurship        | Not started   |
+| [Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass](https://www.amazon.com/Ghost-Work-Silicon-Building-Underclass/dp/1328566242)	|	How technology changed labor market and how people live	|	Not started	|
