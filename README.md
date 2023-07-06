@@ -58,8 +58,10 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [App-Store-Malware-Automatic-Hunting-System](https://github.com/lilang-wu/iOS-AppStore-Malware-Automatic-Hunting-System)	|	iOS malware automated analysis	|	Not started	|
 | [Ten process injection techniques: A technical survey of common and trending process injection techniques](https://www.elastic.co/blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)		|	Malwares, process injections	|	Not started	|
 | [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing/)	|	RE tutorials for x86 and ARM	|
+| [An Exercise in Dynamic Analysis](https://windows-internals.com/an-exercise-in-dynamic-analysis/)	|	Brain dump of RE/ security research process	|	Not started	|
 | [RESEARCHING VPN APPLICATIONS](https://www.securify.nl/blog/reseaching-vpn-applications-part-1-vpn-internals/)	|	Reverse Engineering VPN app	| Not started	|
 | [ESET - Malware analyst challenge](http://www.nullsecurity.org/article/eset_malware_anlyst_challenge)	|	ESET RE chall writeup	|	Not started	|
+| [How to write a CrackMe for a CTF competition](https://www.pelock.com/articles/how-to-write-a-crackme-for-a-ctf-competition)	|	Writing crackme	|	Not started	|
 | [Automated Reverse Engineering of Relationships Between Data Structures in C++ Binaries](https://research.nccgroup.com/wp-content/uploads/episerver-images/assets/2dd73140d5c6453f9fb079ac5374b1b0/2dd73140d5c6453f9fb079ac5374b1b0.pdf)	|	Windows, automated reverse engineering	|	Not started	|
 | [Methodology for Static Reverse Engineering of Windows Kernel Drivers](https://posts.specterops.io/methodology-for-static-reverse-engineering-of-windows-kernel-drivers-3115b2efed83)		|	Windows kernel drivers reverse engineering	|	Not started	|
 | [Building an offensive Windows RPC interface](https://blog.whiteflag.io/blog/weaponizing-windows-rpc-interfaces/)	|	build RPC interface	| Not started	|
@@ -77,6 +79,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)	|	Learning, programming	| Not started	|
 | [Classic Nintendo Games are (NP-)Hard](https://arxiv.org/pdf/1203.1895v1.pdf)		| place holder	| Not started	|
 | [Fake It Until You Make It: Using Deep Fakes to Bypass Voice Biometrics](https://www.netspi.com/blog/technical/adversary-simulation/using-deep-fakes-to-bypass-voice-biometrics/)	| Deepfake training	| Not started	|
+| [Never, Ever, Ever Use Pixelation for Redacting Text](https://bishopfox.com/blog/unredacter-tool-never-pixelation)	|	de-pixelation	|	Not started	|
 | [Hakluke: Creating the Perfect Bug Bounty Automation](https://labs.detectify.com/2021/11/30/hakluke-creating-the-perfect-bug-bounty-automation/)	| bug bounty automation	| Not started	|
 | [How I Rob Banks: And Other Such Places](https://www.amazon.com/How-Rob-Banks-Other-Places/dp/1119911478)	|	Physical pentesting, Social engineering	|	Not started	|
 | [How to Build a Product that Scales into a Company](https://www.youtube.com/watch?v=r-98YRAF1dY)      |       Entrepreneurship        | Not started   |
