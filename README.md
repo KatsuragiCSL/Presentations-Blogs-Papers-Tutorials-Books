@@ -4,6 +4,10 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 **Course list**
 | Course      | Learning point | Status     | Works	|
 | :---        | :----          | :---       | :---	|
+| [What Makes Software Exploitation](https://jackson_t.gitlab.io/finding-vulnerabilities.html)	|	bug hunting methodology	|	Not started	|
+| [Operational Mental Models](https://jackson_t.gitlab.io/operational-mental-models.html)	|	Mental model for offensive R&D	|	Not started	|
+| [It Depends: Why Managing Nuance Matters for Red Teams](https://jackson_t.gitlab.io/it-depends.html)	|	Red team management	|	Not started	|
+| | |
 | [An Intro to Fuzzing (AKA Fuzz Testing)](https://bishopfox.com/blog/fuzzing-aka-fuzz-testing)	|	Overview of fuzzing	|	Not started	|
 | [The Smart Fuzzer Revolution by Dan Guido](https://www.youtube.com/watch?v=g1E2Ce5cBhI)	|	History and future (from 2016 POV) of fuzzing	|	Not started	|
 | [Fuzzing Like It’s 1989](https://blog.trailofbits.com/2018/12/31/fuzzing-like-its-1989/)	|	placeholder	|	Not started	|
@@ -35,8 +39,12 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [FuzzBench: Fuzzer Benchmarking As a Service](https://google.github.io/fuzzbench/)	|	Google's fuzzer benmarking	|	Not started	|
 | [How to Spot Good Fuzzing Research](https://blog.trailofbits.com/2018/10/05/how-to-spot-good-fuzzing-research/)	|	Picking fuzzing research papers	|	Not started	|
 | [FUZZIFICATION: Anti-Fuzzing Techniques](https://www.usenix.org/system/files/sec19fall_jung_prepub.pdf)		| anti-fuzzing		| Not started	|
+| | |
+| [A Guide to Reversing and Evading EDRs: Part 1](https://jackson_t.gitlab.io/edr-reversing-evading-01.html)	|	EDR hacking	|	 Not started	|
+| | |
 | [35C3 - The Layman's Guide to Zero-Day Engineering](https://www.youtube.com/watch?v=WbuGMs2OcbE&t=87s)        |       Exploit development     | Not started   |
 | [Building a Basic Fuzzer with GDB: The Five Minute GDB Scripting Tutorial](https://web.archive.org/web/20150221191059/http://www.praetorian.com/blog/building-a-basic-fuzzer-with-gdb-the-five-minute-gdb-scripting-tutorial)	|	GDB scripting, writing fuzzer in gdb	| 	Not started	|
+| | |
 | [Learning Linux Kernel Exploitation](https://lkmidas.github.io/posts/20210123-linux-kernel-pwn-part-1/)	| Linux kernel exploitation	| Not started	|
 | [OffensiveCon23 - Alex Plaskett & Cedric Halbronn - Exploit Engineering – Attacking the Linux Kernel](https://www.youtube.com/watch?v=9wgHENj_YNk)	|	Reliable linux kernel exploit development	| Not started	|
 | [CVE-2020-8835: LINUX KERNEL PRIVILEGE ESCALATION VIA IMPROPER EBPF PROGRAM VERIFICATION](https://www.zerodayinitiative.com/blog/2020/4/8/cve-2020-8835-linux-kernel-privilege-escalation-via-improper-ebpf-program-verification)	| linux kernel exploitation, eBPF	| Not started	|
@@ -44,15 +52,21 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [You can be a kernel hacker!](https://jvns.ca/blog/2014/09/18/you-can-be-a-kernel-hacker/)	|	Starting linux kernel development	|	Not started	|
 | [Rooting with root cause: finding a variant of a Project Zero bug](https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/)	|	ARM driver bugs writeup	|	Not started	|
 | [Coding a Linux userland rootkit](https://github.com/yo-yo-yo-jbo/linux_userland_rootkit/)	|	linux userland rootkit	|	Not started	|
+| | |
 | [Advanced Windows exploit development resources](https://github.com/FULLSHADE/WindowsExploitationResources)	|	Windows exploit dev	|	Not started	|
 | [awesome windows logical bugs](https://github.com/sailay1996/awesome_windows_logical_bugs)	|	windows logical LPE	|	Not started	|
 | [Call the plumber – You have a leak in your (named) pipe](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEF%20CON%2025%20-%20Gil-Cohen-Call-The-Plumber-You-Have-A-Leak-In-Your-%28named%29-Pipe-UPDATED.pdf)	|	(windows) named pipe exploits	|	Not started	|
 | [Offensive Windows IPC Internals 1: Named Pipes](https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html)	|	Windows IPC explots	|	Not started	|
+| | |
 | [macOS Vulnerabilities Hiding in Plain Sight](https://www.youtube.com/watch?v=Nvpo-kP6C9s)	|	Mac Exploits	|	Not started	|
+| | |
 | [Mobile Exploitation, the past, present, and future](https://github.com/externalist/presentations/blob/master/2023%20Zer0con/Mobile%20Exploitation%2C%20the%20past%2C%20present%2C%20and%20future.pdf)	|	Mobile exploitations	|	Not started	|
+| | |
 | [CodeQL zero to hero part 1: the fundamentals of static analysis for vulnerability research](https://github.blog/2023-03-31-codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research/)	| static analysis theory, codeQL	| Not started	|
 | [Automating binary vulnerability discovery with Ghidra and Semgrep](https://security.humanativaspa.it/automating-binary-vulnerability-discovery-with-ghidra-and-semgrep/)	|	automated static analysis	|	Not started	|
+| | |
 | [How I Hacked my Car](https://programmingwithstyle.com/posts/howihackedmycar/)	| Car hacking	| Not started	|
+| | |
 | [Mastering the Art of SOC Analysis Part 1 | Fundamental Skills for Aspiring Security Operations Center Analysts](https://www.sentinelone.com/blog/mastering-the-art-of-soc-analysis-part-1/)	| SOC	| Not started	|
 | [Low-Level Process Hunting on macos](https://themittenmac.com/low-level-process-hunting-on-macos/)	| Mac threat hunting	| Not started	|
 | [App-Store-Malware-Automatic-Hunting-System](https://github.com/lilang-wu/iOS-AppStore-Malware-Automatic-Hunting-System)	|	iOS malware automated analysis	|	Not started	|
@@ -65,8 +79,9 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [How to write a CrackMe for a CTF competition](https://www.pelock.com/articles/how-to-write-a-crackme-for-a-ctf-competition)	|	Writing crackme	|	Not started	|
 | [Automated Reverse Engineering of Relationships Between Data Structures in C++ Binaries](https://research.nccgroup.com/wp-content/uploads/episerver-images/assets/2dd73140d5c6453f9fb079ac5374b1b0/2dd73140d5c6453f9fb079ac5374b1b0.pdf)	|	Windows, automated reverse engineering	|	Not started	|
 | [Methodology for Static Reverse Engineering of Windows Kernel Drivers](https://posts.specterops.io/methodology-for-static-reverse-engineering-of-windows-kernel-drivers-3115b2efed83)		|	Windows kernel drivers reverse engineering	|	Not started	|
+| [macOS reflective code loading analysis](https://hackd.net/posts/macos-reflective-code-loading-analysis/)     |       place holder    | Not started   |
+| | |
 | [Building an offensive Windows RPC interface](https://blog.whiteflag.io/blog/weaponizing-windows-rpc-interfaces/)	|	build RPC interface	| Not started	|
-| [macOS reflective code loading analysis](https://hackd.net/posts/macos-reflective-code-loading-analysis/)	|	place holder	| Not started	|
 | [Toxic Proxies - Bypassing HTTPS & VPNs to pwn your online identity](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEF%20CON%2024%20-%20Chapman-Stone-Toxic-Proxies-Bypassing-HTTPS-and-VPNs-UPDATED.pdf)	| VPN bypass, privacy leak	| Not started	|
 | [Machine Duping 101: Pwning Deep Learning Systems](https://www.youtube.com/watch?v=JAGDpJFFM2A)	|	Deep learning intro & attacks	|	Not started	|
 | [NASM Assembly Language Tutorials](https://asmtutor.com/)	|	x86 NASM assembly	|	Not started	|
@@ -83,6 +98,9 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Never, Ever, Ever Use Pixelation for Redacting Text](https://bishopfox.com/blog/unredacter-tool-never-pixelation)	|	de-pixelation	|	Not started	|
 | [Hakluke: Creating the Perfect Bug Bounty Automation](https://labs.detectify.com/2021/11/30/hakluke-creating-the-perfect-bug-bounty-automation/)	| bug bounty automation	| Not started	|
 | [How I Rob Banks: And Other Such Places](https://www.amazon.com/How-Rob-Banks-Other-Places/dp/1119911478)	|	Physical pentesting, Social engineering	|	Not started	|
+| [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)	|	Soft skills	|	Not started	|
+| [Mythical Man-Month, The: Essays on Software Engineering](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)	|	Software project management	|	Not started	|
+| [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)	|	UX design	|	Not started	|
 | [How to Build a Product that Scales into a Company](https://www.youtube.com/watch?v=r-98YRAF1dY)      |       Entrepreneurship        | Not started   |
 | [Thinking Strategically: The Competitive Edge in Business, Politics, and Everyday Life](https://www.amazon.com/Thinking-Strategically-Competitive-Business-Paperback-ebook/dp/B002OJIBLU)	|	Thinking	|	Not started	|
 | [Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass](https://www.amazon.com/Ghost-Work-Silicon-Building-Underclass/dp/1328566242)	|	How technology changed labor market and how people live	|	Not started	|
