@@ -83,7 +83,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | | |
 | [Building an offensive Windows RPC interface](https://blog.whiteflag.io/blog/weaponizing-windows-rpc-interfaces/)	|	build RPC interface	| Not started	|
 | [Toxic Proxies - Bypassing HTTPS & VPNs to pwn your online identity](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEF%20CON%2024%20-%20Chapman-Stone-Toxic-Proxies-Bypassing-HTTPS-and-VPNs-UPDATED.pdf)	| VPN bypass, privacy leak	| Not started	|
-| [Machine Duping 101: Pwning Deep Learning Systems](https://www.youtube.com/watch?v=JAGDpJFFM2A)	|	Deep learning intro & attacks	|	Not started	|
+| [Machine Dumping 101: Pwning Deep Learning Systems](https://www.youtube.com/watch?v=JAGDpJFFM2A)	|	Deep learning intro & attacks	|	Not started	|
 | [NASM Assembly Language Tutorials](https://asmtutor.com/)	|	x86 NASM assembly	|	Not started	|
 | [INTRODUCTION TO ARM ASSEMBLY BASICS](https://azeria-labs.com/writing-arm-assembly-part-1/)	| 	ARM assembly	| Not started	|
 | [Espressif ESP32: Breaking HW AES with Power Analysis](https://raelize.com/blog/espressif-systems-esp32-breaking-hw-aes-with-power-analysis/)		|	Hardware side channels	|	Not started	|
