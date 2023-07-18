@@ -91,6 +91,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Hakluke: Creating the Perfect Bug Bounty Automation](https://labs.detectify.com/2021/11/30/hakluke-creating-the-perfect-bug-bounty-automation/)	| bug bounty automation	| Not started	|
 | [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)	|	place holder	| Not started	|
 | [RECOVERING A FULL PEM PRIVATE KEY WHEN HALF OF IT IS REDACTED](https://blog.cryptohack.org/twitter-secrets)	|	Cryptography	| Not started	|
+| [Never, Ever, Ever Use Pixelation for Redacting Text](https://bishopfox.com/blog/unredacter-tool-never-pixelation)	|	de-pixelation	|	Not started	|
 | [Stealing Bitcoin with Math](https://www.youtube.com/watch?v=f2s3_UG9IPU)	|	Cryptocurrency	|	Not started	|
 | [Fake It Until You Make It: Using Deep Fakes to Bypass Voice Biometrics](https://www.netspi.com/blog/technical/adversary-simulation/using-deep-fakes-to-bypass-voice-biometrics/)	| Deepfake training	| Not started	|
 | | |
@@ -98,7 +99,6 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [The Art of Doing Science and Engineering: Learning to Learn](https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/1732265178)	|	learning	|	Not started	|
 | [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050)	|	learning, thinking	|	Not started	|
 | [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)	|	Learning, programming	| Not started	|
-| [Never, Ever, Ever Use Pixelation for Redacting Text](https://bishopfox.com/blog/unredacter-tool-never-pixelation)	|	de-pixelation	|	Not started	|
 | [How I Rob Banks: And Other Such Places](https://www.amazon.com/How-Rob-Banks-Other-Places/dp/1119911478)	|	Physical pentesting, Social engineering	|	Not started	|
 | [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)	|	Soft skills	|	Not started	|
 | [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)	|	Historical approach of introdution to computation	|	Not started	|
