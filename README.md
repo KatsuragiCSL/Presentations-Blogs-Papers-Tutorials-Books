@@ -81,7 +81,8 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [An Exercise in Dynamic Analysis](https://windows-internals.com/an-exercise-in-dynamic-analysis/)	|	Brain dump of RE/ security research process	|	Not started	|
 | [RESEARCHING VPN APPLICATIONS](https://www.securify.nl/blog/reseaching-vpn-applications-part-1-vpn-internals/)	|	Reverse Engineering VPN app	| Not started	|
 | [ESET - Malware analyst challenge](http://www.nullsecurity.org/article/eset_malware_anlyst_challenge)	|	ESET RE chall writeup	|	Not started	|
-| | [Detecting Indirect Syscalls from Userland, A Naive Approach.](https://fool.ish.wtf/2022/11/detecting-indirect-syscalls.html) |       Detecting indirect syscalls     |
+| [Reversing GO Binaries With Ghidra ](https://www.youtube.com/watch?v=J2svN8h21oo)	|	Golang reverse engineering	|	Not started	|
+| [Detecting Indirect Syscalls from Userland, A Naive Approach.](https://fool.ish.wtf/2022/11/detecting-indirect-syscalls.html) |       Detecting indirect syscalls     |
 | [How to write a CrackMe for a CTF competition](https://www.pelock.com/articles/how-to-write-a-crackme-for-a-ctf-competition)	|	Writing crackme	|	Not started	|
 | [Automated Reverse Engineering of Relationships Between Data Structures in C++ Binaries](https://research.nccgroup.com/wp-content/uploads/episerver-images/assets/2dd73140d5c6453f9fb079ac5374b1b0/2dd73140d5c6453f9fb079ac5374b1b0.pdf)	|	Windows, automated reverse engineering	|	Not started	|
 | [Methodology for Static Reverse Engineering of Windows Kernel Drivers](https://posts.specterops.io/methodology-for-static-reverse-engineering-of-windows-kernel-drivers-3115b2efed83)		|	Windows kernel drivers reverse engineering	|	Not started	|
@@ -110,6 +111,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [The Art of Doing Science and Engineering: Learning to Learn](https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/1732265178)	|	learning	|	Not started	|
 | [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050)	|	learning, thinking	|	Not started	|
 | [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)	|	Learning, programming	| Not started	|
+| [Becoming a full-stack reverse-engineer](https://www.youtube.com/watch?v=9vKG8-TnawY)	|	Learning, reverse engineering	|	Not started	|
 | [How I Rob Banks: And Other Such Places](https://www.amazon.com/How-Rob-Banks-Other-Places/dp/1119911478)	|	Physical pentesting, Social engineering	|	Not started	|
 | [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)	|	Soft skills	|	Not started	|
 | [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)	|	Historical approach of introdution to computation	|	Not started	|
