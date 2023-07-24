@@ -40,8 +40,6 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [How to Spot Good Fuzzing Research](https://blog.trailofbits.com/2018/10/05/how-to-spot-good-fuzzing-research/)	|	Picking fuzzing research papers	|	Not started	|
 | [FUZZIFICATION: Anti-Fuzzing Techniques](https://www.usenix.org/system/files/sec19fall_jung_prepub.pdf)		| anti-fuzzing		| Not started	|
 | | |
-| [A Guide to Reversing and Evading EDRs: Part 1](https://jackson_t.gitlab.io/edr-reversing-evading-01.html)	|	EDR hacking	|	 Not started	|
-| | |
 | [35C3 - The Layman's Guide to Zero-Day Engineering](https://www.youtube.com/watch?v=WbuGMs2OcbE&t=87s)        |       Exploit development     | Not started   |
 | [Building a Basic Fuzzer with GDB: The Five Minute GDB Scripting Tutorial](https://web.archive.org/web/20150221191059/http://www.praetorian.com/blog/building-a-basic-fuzzer-with-gdb-the-five-minute-gdb-scripting-tutorial)	|	GDB scripting, writing fuzzer in gdb	| 	Not started	|
 | | |
@@ -51,8 +49,6 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Fuzzing for eBPF JIT bugs in the Linux kernel](https://scannell.io/posts/ebpf-fuzzing/)	| linux kernel exploitation, eBPF, fuzzing	| Not started	|
 | [You can be a kernel hacker!](https://jvns.ca/blog/2014/09/18/you-can-be-a-kernel-hacker/)	|	Starting linux kernel development	|	Not started	|
 | [Rooting with root cause: finding a variant of a Project Zero bug](https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/)	|	ARM driver bugs writeup	|	Not started	|
-| [Coding a Linux userland rootkit](https://github.com/yo-yo-yo-jbo/linux_userland_rootkit/)	|	linux userland rootkit	|	Not started	|
-| [Writing your own RDI /sRDI loader using C and ASM](https://blog.malicious.group/writing-your-own-rdi-srdi-loader-using-c-and-asm/)	|	write a loader	|	Not started	|
 | [Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)	|	Firmware/ hackware hacking, emulation	|	Not started	|
 | [FIRMWARE SECURITY: A GUIDE TO LEARNING FIRMWARE PENTESTING FROM ZERO TO ONE](https://store.expliot.io/blogs/iot/firmware-security-fu-a-guide-to-learning-firmware-pentesting-from-zero-to-one)	|	firmware security learning guide	|	Not started	|
 | | |
@@ -60,6 +56,9 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [awesome windows logical bugs](https://github.com/sailay1996/awesome_windows_logical_bugs)	|	windows logical LPE	|	Not started	|
 | [Call the plumber – You have a leak in your (named) pipe](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEF%20CON%2025%20-%20Gil-Cohen-Call-The-Plumber-You-Have-A-Leak-In-Your-%28named%29-Pipe-UPDATED.pdf)	|	(windows) named pipe exploits	|	Not started	|
 | [Offensive Windows IPC Internals 1: Named Pipes](https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html)	|	Windows IPC explots	|	Not started	|
+| [Thick Client Penetration Testing Methodology](https://www.darkrelay.com/post/thick-client-penetration-testing)	|	vulnerable Windows practice app	|	Not started	|
+| [Social Engineering The Windows Kernel: Finding And Exploiting Token Handling Vulnerabilities](https://www.youtube.com/watch?v=QRpfvmMbDMg)	|	windows token handling bugs	|	Not started	|
+| [BlueHat v18 || Mitigation Bypass: The Past, Present, and Future](https://www.youtube.com/watch?v=WsoFmN3oDw8)	|	Windows defense bypass history	|	Not started	|
 | | |
 | [macOS Vulnerabilities Hiding in Plain Sight](https://www.youtube.com/watch?v=Nvpo-kP6C9s)	|	Mac Exploits	|	Not started	|
 | | |
@@ -79,6 +78,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Ten process injection techniques: A technical survey of common and trending process injection techniques](https://www.elastic.co/blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)		|	Malwares, process injections	|	Not started	|
 | [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing/)	|	RE tutorials for x86 and ARM	|
 | [An Exercise in Dynamic Analysis](https://windows-internals.com/an-exercise-in-dynamic-analysis/)	|	Brain dump of RE/ security research process	|	Not started	|
+| [Anti-Reversing - Anti-Dump Trick "Header Erase"](https://www.youtube.com/watch?v=aC9d5VPcWJM)	|	Anti-dump	|	Not started	|
 | [RESEARCHING VPN APPLICATIONS](https://www.securify.nl/blog/reseaching-vpn-applications-part-1-vpn-internals/)	|	Reverse Engineering VPN app	| Not started	|
 | [ESET - Malware analyst challenge](http://www.nullsecurity.org/article/eset_malware_anlyst_challenge)	|	ESET RE chall writeup	|	Not started	|
 | [Reversing GO Binaries With Ghidra ](https://www.youtube.com/watch?v=J2svN8h21oo)	|	Golang reverse engineering	|	Not started	|
@@ -86,7 +86,6 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [How to write a CrackMe for a CTF competition](https://www.pelock.com/articles/how-to-write-a-crackme-for-a-ctf-competition)	|	Writing crackme	|	Not started	|
 | [Automated Reverse Engineering of Relationships Between Data Structures in C++ Binaries](https://research.nccgroup.com/wp-content/uploads/episerver-images/assets/2dd73140d5c6453f9fb079ac5374b1b0/2dd73140d5c6453f9fb079ac5374b1b0.pdf)	|	Windows, automated reverse engineering	|	Not started	|
 | [Methodology for Static Reverse Engineering of Windows Kernel Drivers](https://posts.specterops.io/methodology-for-static-reverse-engineering-of-windows-kernel-drivers-3115b2efed83)		|	Windows kernel drivers reverse engineering	|	Not started	|
-| [macOS reflective code loading analysis](https://hackd.net/posts/macos-reflective-code-loading-analysis/)     |       place holder    | Not started   |
 | [NASM Assembly Language Tutorials](https://asmtutor.com/)     |       x86 NASM assembly       |       Not started     |
 | [INTRODUCTION TO ARM ASSEMBLY BASICS](https://azeria-labs.com/writing-arm-assembly-part-1/)   |       ARM assembly    | Not started   |
 | | |
