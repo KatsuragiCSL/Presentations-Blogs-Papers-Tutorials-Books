@@ -53,6 +53,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [FIRMWARE SECURITY: A GUIDE TO LEARNING FIRMWARE PENTESTING FROM ZERO TO ONE](https://store.expliot.io/blogs/iot/firmware-security-fu-a-guide-to-learning-firmware-pentesting-from-zero-to-one)	|	firmware security learning guide	|	Not started	|
 | | |
 | [Advanced Windows exploit development resources](https://github.com/FULLSHADE/WindowsExploitationResources)	|	Windows exploit dev	|	Not started	|
+| [Dirty Vanity: A New Approach to Code Injection & EDR Bypass](https://www.youtube.com/watch?v=Fpb4eL3vMgk)	|	windows code injection	|	Not started	|
 | [awesome windows logical bugs](https://github.com/sailay1996/awesome_windows_logical_bugs)	|	windows logical LPE	|	Not started	|
 | [Call the plumber – You have a leak in your (named) pipe](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEF%20CON%2025%20-%20Gil-Cohen-Call-The-Plumber-You-Have-A-Leak-In-Your-%28named%29-Pipe-UPDATED.pdf)	|	(windows) named pipe exploits	|	Not started	|
 | [Offensive Windows IPC Internals 1: Named Pipes](https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html)	|	Windows IPC explots	|	Not started	|
@@ -90,7 +91,10 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [INTRODUCTION TO ARM ASSEMBLY BASICS](https://azeria-labs.com/writing-arm-assembly-part-1/)   |       ARM assembly    | Not started   |
 | | |
 | [Reverse Engineering Coin Hunt World’s Binary Protocol](https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/)	|	placeholder	|	Not started	|
+| [Windows Offender: Reverse Engineering Windows Defender's Antivirus Emulator](https://www.youtube.com/watch?v=wDNQ-8aWLO0)	|	Reversing windows defender	|	Not started	|
 | [Classic Nintendo Games are (NP-)Hard](https://arxiv.org/pdf/1203.1895v1.pdf)		| place holder	| Not started	|
+| [Developing Kernel Drivers with Modern C++](https://www.youtube.com/watch?v=AsSMKL5vaXw)	|	windows kernel development	|	Not started	|
+| [Building your own profiling and diagnosis tools with Event Tracing for Windows](https://www.youtube.com/watch?v=gBkvAO02qUY)	|	windows diagnosis tools development	|	Not started	|
 | [Building an offensive Windows RPC interface](https://blog.whiteflag.io/blog/weaponizing-windows-rpc-interfaces/)	|	build RPC interface	| Not started	|
 | [Toxic Proxies - Bypassing HTTPS & VPNs to pwn your online identity](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEF%20CON%2024%20-%20Chapman-Stone-Toxic-Proxies-Bypassing-HTTPS-and-VPNs-UPDATED.pdf)	| VPN bypass, privacy leak	| Not started	|
 | [Machine Dumping 101: Pwning Deep Learning Systems](https://www.youtube.com/watch?v=JAGDpJFFM2A)	|	Deep learning intro & attacks	|	Not started	|
@@ -101,6 +105,10 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Never, Ever, Ever Use Pixelation for Redacting Text](https://bishopfox.com/blog/unredacter-tool-never-pixelation)	|	de-pixelation	|	Not started	|
 | [Stealing Bitcoin with Math](https://www.youtube.com/watch?v=f2s3_UG9IPU)	|	Cryptocurrency	|	Not started	|
 | [Fake It Until You Make It: Using Deep Fakes to Bypass Voice Biometrics](https://www.netspi.com/blog/technical/adversary-simulation/using-deep-fakes-to-bypass-voice-biometrics/)	| Deepfake training	| Not started	|
+| [The Basics of Social Engineering](https://www.youtube.com/watch?v=tCRT3QFzwm8)	|	Social engineering	|	Not started	|
+| [How to Create an Anonymous Identity](https://www.youtube.com/watch?v=8eUieqRrU7s)	|	operation security	|	Not started	|
+| [Lockpicking Forensics](https://www.youtube.com/watch?v=AVZzBjK1kmI)	|	Lockpicking forensics	|	Not started	|
+| [When Cybercriminals with Good OpSec Attack](https://www.youtube.com/watch?v=zXmZnU2GdVk)	|	OpSec	|	Not started	|
 | | |
 | [Unlocking Your Intuition: How to Solve Hard Problems Easily](https://www.youtube.com/watch?v=1f6N2UrCK6o)	|	learning	|	Not started	|
 | [The Black Box Method: How to Learn Hard Concepts Quickly](https://www.youtube.com/watch?v=RDzsrmMl48I)	|	learning 	|	Not started     |
