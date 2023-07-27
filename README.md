@@ -10,10 +10,12 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [How Do You Actually Find Bugs?](https://www.youtube.com/watch?v=7Ysy6iA2sqA) |       Methodology of vulnerability research   |       Not started     |
 | | |
 | [An Intro to Fuzzing (AKA Fuzz Testing)](https://bishopfox.com/blog/fuzzing-aka-fuzz-testing)	|	Overview of fuzzing	|	Not started	|
+| [Fuzz Smarter Not Harder An afl fuzz Primer](https://www.youtube.com/watch?v=29RbO5bftwo)	|	afl	|	Not started	|
 | [The Smart Fuzzer Revolution by Dan Guido](https://www.youtube.com/watch?v=g1E2Ce5cBhI)	|	History and future (from 2016 POV) of fuzzing	|	Not started	|
 | [Fuzzing Like It’s 1989](https://blog.trailofbits.com/2018/12/31/fuzzing-like-its-1989/)	|	placeholder	|	Not started	|
 | [Parser Parser Combinators for Program Transformation](https://www.youtube.com/watch?v=JMZLBB_BFNg)	|	Story behind comby.dev	|	Not started	|
 | | |
+| [Fuzzing for Humans: Real Fuzzing in the Real World](https://www.youtube.com/watch?v=N3Z4C2D15JM)	|	fuzzing	|	Not started	|
 | [Exposing Hidden Exploitable Behaviors In Programming Languages Using Differential Fuzzing](https://www.youtube.com/watch?v=yJ-9_T19y0E)	|	Differential fuzzing	|	Not started	|
 | [Effective File Format Fuzzing – Thoughts, Techniques and Results](https://www.youtube.com/watch?v=qTTwqFRD1H8)	|	file format fuzzing	|	Not started	|
 | [Deconstructing programs for compiler fuzzing](https://comby.dev/blog/2022/04/11/comby-decomposer-compiler-fuzzing)	|	Compiler fuzzing	|	Not started	|
