@@ -16,6 +16,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Parser Parser Combinators for Program Transformation](https://www.youtube.com/watch?v=JMZLBB_BFNg)	|	Story behind comby.dev	|	Not started	|
 | | |
 | [Fuzzing for Humans: Real Fuzzing in the Real World](https://www.youtube.com/watch?v=N3Z4C2D15JM)	|	fuzzing	|	Not started	|
+| [Automated Testing of Crypto Software Using Differential Fuzzing](https://www.youtube.com/watch?v=04Rzu7peZU4)	|	differential fuzzing	|	Not started	|
 | [Exposing Hidden Exploitable Behaviors In Programming Languages Using Differential Fuzzing](https://www.youtube.com/watch?v=yJ-9_T19y0E)	|	Differential fuzzing	|	Not started	|
 | [Effective File Format Fuzzing – Thoughts, Techniques and Results](https://www.youtube.com/watch?v=qTTwqFRD1H8)	|	file format fuzzing	|	Not started	|
 | [Deconstructing programs for compiler fuzzing](https://comby.dev/blog/2022/04/11/comby-decomposer-compiler-fuzzing)	|	Compiler fuzzing	|	Not started	|
@@ -129,6 +130,9 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | | |
 | [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)	|	Speech skills	|	Not started	|
 | [Career / Interview Advice for Reverse Engineers](https://www.youtube.com/watch?v=5PTeYipf8mc)	|	career advice	|	Not started	|
+| [How to Social Engineer your way into your dream job](https://www.youtube.com/watch?v=__lvS2pjuSg)	|	career advice   |       Not started     |
+| [Why I Love Offensive Work, Why I don't Love Offensive Work](https://www.youtube.com/watch?v=8QRnOpjmneo)	|	career advice   |       Not started     |
+| [Project Zero: Five Years of 'Make 0Day Hard'](https://www.youtube.com/watch?v=vn7YIAiOnYw)	|	learning	|	Not started	|
 | [Unlocking Your Intuition: How to Solve Hard Problems Easily](https://www.youtube.com/watch?v=1f6N2UrCK6o)	|	learning	|	Not started	|
 | [The Black Box Method: How to Learn Hard Concepts Quickly](https://www.youtube.com/watch?v=RDzsrmMl48I)	|	learning 	|	Not started     |
 | [How to Awaken & Enhance Your Analytical Problem-Solving Mind](https://www.youtube.com/watch?v=-jmxvq0rF9o)	|	learning        |       Not started     |
