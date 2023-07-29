@@ -4,7 +4,8 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 **Course list**
 | Course      | Learning point | Status     | Works	|
 | :---        | :----          | :---       | :---	|
-| [What Makes Software Exploitation](https://jackson_t.gitlab.io/finding-vulnerabilities.html)	|	bug hunting methodology	|	Not started	|
+| [High-Level Approaches for Finding Vulnerabilities](https://jackson_t.gitlab.io/finding-vulnerabilities.html)	|	bug hunting methodology	|	Not started	|
+| [What Makes Software Exploitation Hard?](https://www.youtube.com/watch?v=ZKIIPu1wqHs)	|	placeholder	|	Not started	|
 | [Operational Mental Models](https://jackson_t.gitlab.io/operational-mental-models.html)	|	Mental model for offensive R&D	|	Not started	|
 | [It Depends: Why Managing Nuance Matters for Red Teams](https://jackson_t.gitlab.io/it-depends.html)	|	Red team management	|	Not started	|
 | [How Do You Actually Find Bugs?](https://www.youtube.com/watch?v=7Ysy6iA2sqA) |       Methodology of vulnerability research   |       Not started     |
@@ -99,6 +100,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Ten process injection techniques: A technical survey of common and trending process injection techniques](https://www.elastic.co/blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)		|	Malwares, process injections	|	Not started	|
 | [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing/)	|	RE tutorials for x86 and ARM	|
 | [Static binary analysis: the essentials](https://www.youtube.com/watch?v=nC98-ywm7lU)	|	Basics of static reverse engineering	|	Not started	|
+| [Basic Dynamic Analysis with IDA Pro and WinDBG](https://www.youtube.com/watch?v=_ACDiW2I4ns)	|	Basics of dynamic reverse engineering    |       Not started     |
 | [An Exercise in Dynamic Analysis](https://windows-internals.com/an-exercise-in-dynamic-analysis/)	|	Brain dump of RE/ security research process	|	Not started	|
 | [Anti-Reversing - Anti-Dump Trick "Header Erase"](https://www.youtube.com/watch?v=aC9d5VPcWJM)	|	Anti-dump	|	Not started	|
 | [RESEARCHING VPN APPLICATIONS](https://www.securify.nl/blog/reseaching-vpn-applications-part-1-vpn-internals/)	|	Reverse Engineering VPN app	| Not started	|
@@ -113,6 +115,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [INTRODUCTION TO ARM ASSEMBLY BASICS](https://azeria-labs.com/writing-arm-assembly-part-1/)   |       ARM assembly    | Not started   |
 | | |
 | [Reverse Engineering Coin Hunt World’s Binary Protocol](https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/)	|	placeholder	|	Not started	|
+| [reverse engineering candy-crush-saga on ios using lldb and hopper](https://www.youtube.com/watch?v=_i_v6pWqDQQ)	|	placeholder     |       Not started     |
 | [Great Impractical Ideas in Computer Science: PowerPoint Programming](Great Impractical Ideas in Computer Science: PowerPoint Programming)	|	placeholder	|	Not started	|
 | [Windows Offender: Reverse Engineering Windows Defender's Antivirus Emulator](https://www.youtube.com/watch?v=wDNQ-8aWLO0)	|	Reversing windows defender	|	Not started	|
 | [Classic Nintendo Games are (NP-)Hard](https://arxiv.org/pdf/1203.1895v1.pdf)		| place holder	| Not started	|
@@ -131,6 +134,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [The Basics of Social Engineering](https://www.youtube.com/watch?v=tCRT3QFzwm8)	|	Social engineering	|	Not started	|
 | [How to Create an Anonymous Identity](https://www.youtube.com/watch?v=8eUieqRrU7s)	|	operation security	|	Not started	|
 | [Physical Security - Everything That's Wrong With Your Typical Door](https://www.youtube.com/watch?v=raBMFqZRB0s)	|	physical pentest	|	Not started	|
+| [Tactics of Physical Pen Testers](https://www.youtube.com/watch?v=VJ4FDOw9NcI)	|	physical pentest        |       Not started     |
 | [How To Become a Physical Penetration Tester](https://www.youtube.com/watch?v=zNOO702dEl4)	|	becoming physical security consultant	|	Not started	|
 | [Lockpicking Forensics](https://www.youtube.com/watch?v=AVZzBjK1kmI)	|	Lockpicking forensics	|	Not started	|
 | [When Cybercriminals with Good OpSec Attack](https://www.youtube.com/watch?v=zXmZnU2GdVk)	|	OpSec	|	Not started	|
