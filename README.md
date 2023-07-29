@@ -15,6 +15,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Fuzzing Like It’s 1989](https://blog.trailofbits.com/2018/12/31/fuzzing-like-its-1989/)	|	placeholder	|	Not started	|
 | [Parser Parser Combinators for Program Transformation](https://www.youtube.com/watch?v=JMZLBB_BFNg)	|	Story behind comby.dev	|	Not started	|
 | | |
+| [Adventures in Fuzzing - NYU Talk 2018](https://www.youtube.com/watch?v=SngK4W4tVc0)	|	fuzzing	|	Not started	|
 | [Fuzzing for Humans: Real Fuzzing in the Real World](https://www.youtube.com/watch?v=N3Z4C2D15JM)	|	fuzzing	|	Not started	|
 | [Automated Testing of Crypto Software Using Differential Fuzzing](https://www.youtube.com/watch?v=04Rzu7peZU4)	|	differential fuzzing	|	Not started	|
 | [Exposing Hidden Exploitable Behaviors In Programming Languages Using Differential Fuzzing](https://www.youtube.com/watch?v=yJ-9_T19y0E)	|	Differential fuzzing	|	Not started	|
@@ -49,10 +50,11 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [How to Spot Good Fuzzing Research](https://blog.trailofbits.com/2018/10/05/how-to-spot-good-fuzzing-research/)	|	Picking fuzzing research papers	|	Not started	|
 | [FUZZIFICATION: Anti-Fuzzing Techniques](https://www.usenix.org/system/files/sec19fall_jung_prepub.pdf)		| anti-fuzzing		| Not started	|
 | | |
-| [35C3 - The Layman's Guide to Zero-Day Engineering](https://www.youtube.com/watch?v=WbuGMs2OcbE&t=87s)        |       Exploit development     | Not started   |
+| [The Layman's Guide to Zero-Day Engineering](https://www.youtube.com/watch?v=WbuGMs2OcbE&t=87s)        |       Exploit development     | Not started   |
 | [Building a Basic Fuzzer with GDB: The Five Minute GDB Scripting Tutorial](https://web.archive.org/web/20150221191059/http://www.praetorian.com/blog/building-a-basic-fuzzer-with-gdb-the-five-minute-gdb-scripting-tutorial)	|	GDB scripting, writing fuzzer in gdb	| 	Not started	|
 | | |
 | [Learning Linux Kernel Exploitation](https://lkmidas.github.io/posts/20210123-linux-kernel-pwn-part-1/)	| Linux kernel exploitation	| Not started	|
+| [E'rybody Gettin' TIPC: Demystifying Remote Linux Kernel Exploitation - Sam Page](https://www.youtube.com/watch?v=OmvGf-zVcbI)	|	Linux kernel exploitation     | Not started   |
 | [Exploit Engineering – Attacking the Linux Kernel](https://www.youtube.com/watch?v=9wgHENj_YNk)	|	Reliable linux kernel exploit development	| Not started	|
 | [CVE-2020-8835: LINUX KERNEL PRIVILEGE ESCALATION VIA IMPROPER EBPF PROGRAM VERIFICATION](https://www.zerodayinitiative.com/blog/2020/4/8/cve-2020-8835-linux-kernel-privilege-escalation-via-improper-ebpf-program-verification)	| linux kernel exploitation, eBPF	| Not started	|
 | [Fuzzing for eBPF JIT bugs in the Linux kernel](https://scannell.io/posts/ebpf-fuzzing/)	| linux kernel exploitation, eBPF, fuzzing	| Not started	|
@@ -72,9 +74,12 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [BlueHat v18 || Mitigation Bypass: The Past, Present, and Future](https://www.youtube.com/watch?v=WsoFmN3oDw8)	|	Windows defense bypass history	|	Not started	|
 | | |
 | [macOS Vulnerabilities Hiding in Plain Sight](https://www.youtube.com/watch?v=Nvpo-kP6C9s)	|	Mac Exploits	|	Not started	|
+| [Smart Fuzzing XPC & XNU](https://www.youtube.com/watch?v=733YrNioR78)	|	fuzzing, Mac	|	Not started     |
+| [Summer of Fuzz: MacOS](https://www.youtube.com/watch?v=T5xfL9tEg44)		|       fuzzing, Mac    |       Not started     |
 | | |
 | [Mobile Exploitation, the past, present, and future](https://github.com/externalist/presentations/blob/master/2023%20Zer0con/Mobile%20Exploitation%2C%20the%20past%2C%20present%2C%20and%20future.pdf)	|	Mobile exploitations	|	Not started	|
 | [DIFUZE: Android Kernel Driver Fuzzing](https://www.youtube.com/watch?v=XFDHzSLGx7o)	|	Android, fuzzing	|	Not started	|
+| [We Can Still Crack You! General Unpacking Method For Android Packer (no Root)](https://www.youtube.com/watch?v=UVCckhcuoec)	|	Android, packing	|	Not started	|
 | [IOS Deep Link Attacks](https://8ksec.io/ios-deeplink-attacks-part-1-introduction-8ksec-blogs/)	|	iOS exploit	|	Not started	|
 | | |
 | [CodeQL zero to hero part 1: the fundamentals of static analysis for vulnerability research](https://github.blog/2023-03-31-codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research/)	| static analysis theory, codeQL	| Not started	|
@@ -84,6 +89,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | | |
 | [Discover Vulnerabilities in Intel CPUs!](https://www.youtube.com/watch?v=x_R1DeZxGc0)	|	CPU side channels	|	Not started	|
 | [Practical Reverse Engineering Part 1 - Hunting for Debug Ports](https://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/)	|	Hardware reverse engineering	|	Not started	|
+| [Electronics Reverse Engineering Walkthrough - Hacking the Monoprice Select Mini 3D Printer](https://www.youtube.com/watch?v=T-o-ibGUEoA)	|Hardware reverse engineering    |       Not started     |
 | [How I Hacked my Car](https://programmingwithstyle.com/posts/howihackedmycar/)	| Car hacking	| Not started	|
 | [Coverage-Guided USB Fuzzing with Syzkaller](https://www.youtube.com/watch?v=1MD5JV6LfxA)	|	USB fuzzing	|	Not started	|
 | | |
@@ -107,6 +113,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [INTRODUCTION TO ARM ASSEMBLY BASICS](https://azeria-labs.com/writing-arm-assembly-part-1/)   |       ARM assembly    | Not started   |
 | | |
 | [Reverse Engineering Coin Hunt World’s Binary Protocol](https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/)	|	placeholder	|	Not started	|
+| [Great Impractical Ideas in Computer Science: PowerPoint Programming](Great Impractical Ideas in Computer Science: PowerPoint Programming)	|	placeholder	|	Not started	|
 | [Windows Offender: Reverse Engineering Windows Defender's Antivirus Emulator](https://www.youtube.com/watch?v=wDNQ-8aWLO0)	|	Reversing windows defender	|	Not started	|
 | [Classic Nintendo Games are (NP-)Hard](https://arxiv.org/pdf/1203.1895v1.pdf)		| place holder	| Not started	|
 | [Developing Kernel Drivers with Modern C++](https://www.youtube.com/watch?v=AsSMKL5vaXw)	|	windows kernel development	|	Not started	|
@@ -127,6 +134,8 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [How To Become a Physical Penetration Tester](https://www.youtube.com/watch?v=zNOO702dEl4)	|	becoming physical security consultant	|	Not started	|
 | [Lockpicking Forensics](https://www.youtube.com/watch?v=AVZzBjK1kmI)	|	Lockpicking forensics	|	Not started	|
 | [When Cybercriminals with Good OpSec Attack](https://www.youtube.com/watch?v=zXmZnU2GdVk)	|	OpSec	|	Not started	|
+| [The Grugq - OPSEC: Because Jail is for wuftpd](https://www.youtube.com/watch?v=9XaYdCdwiWU)	|	OpSec   |       Not started     |
+| [Tor: Darknet OpSec By a Veteran Darknet Vendor & the Hackers Mentality](https://www.youtube.com/watch?v=NGiUhjuB22Y)	|	OpSec   |       Not started     |
 | | |
 | [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)	|	Speech skills	|	Not started	|
 | [Career / Interview Advice for Reverse Engineers](https://www.youtube.com/watch?v=5PTeYipf8mc)	|	career advice	|	Not started	|
@@ -142,6 +151,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [15-year-old did mathematical research?! What was my thinking process back then?](https://www.youtube.com/watch?v=J-4FnbnFIKQ)	|	learning, math. research	|	Not started	|
 | [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050)	|	learning, thinking	|	Not started	|
 | [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)	|	Learning, programming	| Not started	|
+| [How the Best Hackers Learn Their Craft](https://www.youtube.com/watch?v=6vj96QetfTg)	|	Learning, CTF   |       Not started     |
 | [Becoming a full-stack reverse-engineer](https://www.youtube.com/watch?v=9vKG8-TnawY)	|	Learning, reverse engineering	|	Not started	|
 | [How I Rob Banks: And Other Such Places](https://www.amazon.com/How-Rob-Banks-Other-Places/dp/1119911478)	|	Physical pentesting, Social engineering	|	Not started	|
 | [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)	|	Soft skills	|	Not started	|
