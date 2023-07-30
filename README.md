@@ -114,6 +114,8 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [NASM Assembly Language Tutorials](https://asmtutor.com/)     |       x86 NASM assembly       |       Not started     |
 | [INTRODUCTION TO ARM ASSEMBLY BASICS](https://azeria-labs.com/writing-arm-assembly-part-1/)   |       ARM assembly    | Not started   |
 | | |
+| [How to Lose at Tetris](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.55.8562&rep=rep1&type=pdf)	|	tetris proof	|	Not started	|
+| [Abusing Password Managers with XSS](https://www.youtube.com/watch?v=oMw7vjbYF_U)	|	password managers	|	Not started	|
 | [Reverse Engineering Coin Hunt World’s Binary Protocol](https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/)	|	placeholder	|	Not started	|
 | [reverse engineering candy-crush-saga on ios using lldb and hopper](https://www.youtube.com/watch?v=_i_v6pWqDQQ)	|	placeholder     |       Not started     |
 | [Great Impractical Ideas in Computer Science: PowerPoint Programming](Great Impractical Ideas in Computer Science: PowerPoint Programming)	|	placeholder	|	Not started	|
