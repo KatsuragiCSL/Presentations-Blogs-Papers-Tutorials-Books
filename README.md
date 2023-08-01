@@ -147,6 +147,8 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Tor: Darknet OpSec By a Veteran Darknet Vendor & the Hackers Mentality](https://www.youtube.com/watch?v=NGiUhjuB22Y)	|	OpSec   |       Not started     |
 | | |
 | [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)	|	Speech skills	|	Not started	|
+| [From Noob to Less Noob "Wisdom" from 10 years of CTFs](https://docs.google.com/presentation/d/1Qz7doMIRqgLc_X0_KA1qYY-CwF1fAeG1MQw2zZvK0Rs/edit#slide=id.p)	|	How to improve yourself when you are not the smartest among people arround you	|	Done	|
+| [research101](https://github.com/drtychai/research101)	|	how to start doing research, tips for learning and staying updated	|	Done	|
 | [Career / Interview Advice for Reverse Engineers](https://www.youtube.com/watch?v=5PTeYipf8mc)	|	career advice	|	Not started	|
 | [How to Social Engineer your way into your dream job](https://www.youtube.com/watch?v=__lvS2pjuSg)	|	career advice   |       Not started     |
 | [Why I Love Offensive Work, Why I don't Love Offensive Work](https://www.youtube.com/watch?v=8QRnOpjmneo)	|	career advice   |       Not started     |
