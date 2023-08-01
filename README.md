@@ -40,6 +40,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [A Methodical Approach to Browser Exploitation](https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/)	| browser exploitation	| Not started	|
 | [Attacking JavaScript Engines in 2022](https://www.youtube.com/watch?v=FK2-1FAbbXA)	|	js engine exploit	|	Not started	|
 | [FUZZORIGIN: Detecting UXSS vulnerabilities in Browsers through Origin Fuzzing](https://lifeasageek.github.io/papers/sunwoo-fuzzorigin.pdf)	| browser logic bugs fuzzing	| Not started	|
+| [Attacking the DevTools](https://microsoftedge.github.io/edgevr/posts/attacking-the-devtools/)	|	hacking chrome devtools	|	Not started	|
 | [Effectively Fuzzing the IPC Layer in Firefox](https://blog.mozilla.org/attack-and-defense/2021/01/27/effectively-fuzzing-the-ipc-layer-in-firefox/)	|	Firefox IPC fuzzing	|	Not started	|
 | [Examining JavaScript Inter-Process Communication in Firefox](https://blog.mozilla.org/attack-and-defense/2021/04/27/examining-javascript-inter-process-communication-in-firefox/)	|	Firefox IPC in Javascript	|	Not started	|
 | [Guest Blog Post: Good First Steps to Find Security Bugs in Fenix (Part 1)](https://blog.mozilla.org/attack-and-defense/2020/12/08/good-first-steps-in-fenix-part-1/)		|	Bug hunting in Fenix (Android Firefox)	|	Not started	|
@@ -86,13 +87,13 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [CodeQL zero to hero part 1: the fundamentals of static analysis for vulnerability research](https://github.blog/2023-03-31-codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research/)	| static analysis theory, codeQL	| Not started	|
 | [Automating binary vulnerability discovery with Ghidra and Semgrep](https://security.humanativaspa.it/automating-binary-vulnerability-discovery-with-ghidra-and-semgrep/)	|	automated static analysis	|	Not started	|
 | [Advanced Frida Usage](https://8ksec.io/advanced-frida-usage-part-1-ios-encryption-libraries-8ksec-blogs/)	|	Mobile app analysis by Frida	|	Not started	|
-| [25 Years of Program Analysis]()
 | | |
 | [Discover Vulnerabilities in Intel CPUs!](https://www.youtube.com/watch?v=x_R1DeZxGc0)	|	CPU side channels	|	Not started	|
 | [Practical Reverse Engineering Part 1 - Hunting for Debug Ports](https://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/)	|	Hardware reverse engineering	|	Not started	|
 | [Electronics Reverse Engineering Walkthrough - Hacking the Monoprice Select Mini 3D Printer](https://www.youtube.com/watch?v=T-o-ibGUEoA)	|Hardware reverse engineering    |       Not started     |
 | [How I Hacked my Car](https://programmingwithstyle.com/posts/howihackedmycar/)	| Car hacking	| Not started	|
 | [Coverage-Guided USB Fuzzing with Syzkaller](https://www.youtube.com/watch?v=1MD5JV6LfxA)	|	USB fuzzing	|	Not started	|
+| [DNS Remote Code Execution: Finding the Vulnerability 👾](https://www.youtube.com/watch?v=xWoQ-E8n4B0)	|	how flashback team found router DNS RCE	|	Not started	|
 | | |
 | [Mastering the Art of SOC Analysis Part 1 | Fundamental Skills for Aspiring Security Operations Center Analysts](https://www.sentinelone.com/blog/mastering-the-art-of-soc-analysis-part-1/)	| SOC	| Not started	|
 | [Low-Level Process Hunting on macos](https://themittenmac.com/low-level-process-hunting-on-macos/)	| Mac threat hunting	| Not started	|
@@ -132,8 +133,10 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [RECOVERING A FULL PEM PRIVATE KEY WHEN HALF OF IT IS REDACTED](https://blog.cryptohack.org/twitter-secrets)	|	Cryptography	| Not started	|
 | [Never, Ever, Ever Use Pixelation for Redacting Text](https://bishopfox.com/blog/unredacter-tool-never-pixelation)	|	de-pixelation	|	Not started	|
 | [Stealing Bitcoin with Math](https://www.youtube.com/watch?v=f2s3_UG9IPU)	|	Cryptocurrency	|	Not started	|
+| [The Blockchain Developer: A Practical Guide for Designing, Implementing, Publishing, Testing, and Securing Distributed Blockchain-based Projects](https://www.amazon.com/Blockchain-Developer-Implementing-Distributed-Blockchain-based/dp/1484248465)	|	blockchain development	|	Not started	|
 | [Fake It Until You Make It: Using Deep Fakes to Bypass Voice Biometrics](https://www.netspi.com/blog/technical/adversary-simulation/using-deep-fakes-to-bypass-voice-biometrics/)	| Deepfake training	| Not started	|
 | [The Basics of Social Engineering](https://www.youtube.com/watch?v=tCRT3QFzwm8)	|	Social engineering	|	Not started	|
+| [bellebytes-osint-guide](http://web.archive.org/web/20211020073413/https://stormctf.ninja/ctf/blog/stormctf/bellebytes-osint-guide)	OSINT	|	Not started	|
 | [How to Create an Anonymous Identity](https://www.youtube.com/watch?v=8eUieqRrU7s)	|	operation security	|	Not started	|
 | [Physical Security - Everything That's Wrong With Your Typical Door](https://www.youtube.com/watch?v=raBMFqZRB0s)	|	physical pentest	|	Not started	|
 | [Tactics of Physical Pen Testers](https://www.youtube.com/watch?v=VJ4FDOw9NcI)	|	physical pentest        |       Not started     |
