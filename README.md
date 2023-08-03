@@ -81,6 +81,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Thick Client Penetration Testing Methodology](https://www.darkrelay.com/post/thick-client-penetration-testing)	|	vulnerable Windows practice app	|	Not started	|
 | [Social Engineering The Windows Kernel: Finding And Exploiting Token Handling Vulnerabilities](https://www.youtube.com/watch?v=QRpfvmMbDMg)	|	windows token handling bugs	|	Not started	|
 | [BlueHat v18 || Mitigation Bypass: The Past, Present, and Future](https://www.youtube.com/watch?v=WsoFmN3oDw8)	|	Windows defense bypass history	|	Not started	|
+| [Unknown Known DLLs... and other Code Integrity Trust Violations](http://publications.alex-ionescu.com/Recon/Recon%202018%20-%20Unknown%20Known%20DLLs%20and%20other%20code%20integrity%20trust%20violations.pdf)	|	windows code integrity	|	Not started	|
 | | |
 | [macOS Vulnerabilities Hiding in Plain Sight](https://www.youtube.com/watch?v=Nvpo-kP6C9s)	|	Mac Exploits	|	Not started	|
 | [Smart Fuzzing XPC & XNU](https://www.youtube.com/watch?v=733YrNioR78)	|	fuzzing, Mac	|	Not started     |
