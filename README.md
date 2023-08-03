@@ -9,6 +9,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Operational Mental Models](https://jackson_t.gitlab.io/operational-mental-models.html)	|	Mental model for offensive R&D	|	Not started	|
 | [It Depends: Why Managing Nuance Matters for Red Teams](https://jackson_t.gitlab.io/it-depends.html)	|	Red team management	|	Not started	|
 | [How Do You Actually Find Bugs?](https://www.youtube.com/watch?v=7Ysy6iA2sqA) |       Methodology of vulnerability research   |       Not started     |
+| [Write My Own Security Tooling & Why You Should Too!](https://www.youtube.com/watch?v=c2HVyPDJdq4)	|	Methodology of vulnerability research   |       Not started     |
 | | |
 | [An Intro to Fuzzing (AKA Fuzz Testing)](https://bishopfox.com/blog/fuzzing-aka-fuzz-testing)	|	Overview of fuzzing	|	Not started	|
 | [Fuzz Smarter Not Harder An afl fuzz Primer](https://www.youtube.com/watch?v=29RbO5bftwo)	|	afl	|	Not started	|
@@ -151,6 +152,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [From Noob to Less Noob "Wisdom" from 10 years of CTFs](https://docs.google.com/presentation/d/1Qz7doMIRqgLc_X0_KA1qYY-CwF1fAeG1MQw2zZvK0Rs/edit#slide=id.p)	|	How to improve yourself when you are not the smartest among people arround you	|	Done	|
 | [research101](https://github.com/drtychai/research101)	|	how to start doing research, tips for learning and staying updated	|	Done	|
 | [How I choose a security research topic](https://portswigger.net/research/how-i-choose-a-security-research-topic)	|	how to do research	|	Done	|
+| [How to become the best Malware Analyst E-V-E-R](http://www.hexacorn.com/blog/2018/04/14/how-to-become-the-best-malware-analyst-e-v-e-r/)	|	advice in learning malware analysis	|	Not started	|
 | [Career / Interview Advice for Reverse Engineers](https://www.youtube.com/watch?v=5PTeYipf8mc)	|	career advice	|	Not started	|
 | [How to Social Engineer your way into your dream job](https://www.youtube.com/watch?v=__lvS2pjuSg)	|	career advice   |       Not started     |
 | [Why I Love Offensive Work, Why I don't Love Offensive Work](https://www.youtube.com/watch?v=8QRnOpjmneo)	|	career advice   |       Not started     |
