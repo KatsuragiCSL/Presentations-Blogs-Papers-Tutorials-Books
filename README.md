@@ -117,6 +117,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Reversing GO Binaries With Ghidra ](https://www.youtube.com/watch?v=J2svN8h21oo)	|	Golang reverse engineering	|	Not started	|
 | [Detecting Indirect Syscalls from Userland, A Naive Approach.](https://fool.ish.wtf/2022/11/detecting-indirect-syscalls.html) |       Detecting indirect syscalls     |
 | [How to write a CrackMe for a CTF competition](https://www.pelock.com/articles/how-to-write-a-crackme-for-a-ctf-competition)	|	Writing crackme	|	Not started	|
+| [Defeating the RECon's movfuscator crackme](https://dustri.org/b/defeating-the-recons-movfuscator-crackme.html)	|	reversing movuscator	|	Not started	|
 | [Automated Reverse Engineering of Relationships Between Data Structures in C++ Binaries](https://research.nccgroup.com/wp-content/uploads/episerver-images/assets/2dd73140d5c6453f9fb079ac5374b1b0/2dd73140d5c6453f9fb079ac5374b1b0.pdf)	|	Windows, automated reverse engineering	|	Not started	|
 | [Methodology for Static Reverse Engineering of Windows Kernel Drivers](https://posts.specterops.io/methodology-for-static-reverse-engineering-of-windows-kernel-drivers-3115b2efed83)		|	Windows kernel drivers reverse engineering	|	Not started	|
 | [Anti-Forensics for Fun and Privacy - Alissa Gilbert (Shmoocon 2020)](https://www.youtube.com/watch?v=eSmsiSvvAQs)	|	Anti-forensics	|	Not started	|
