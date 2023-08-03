@@ -12,17 +12,21 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Write My Own Security Tooling & Why You Should Too!](https://www.youtube.com/watch?v=c2HVyPDJdq4)	|	Methodology of vulnerability research   |       Not started     |
 | | |
 | [An Intro to Fuzzing (AKA Fuzz Testing)](https://bishopfox.com/blog/fuzzing-aka-fuzz-testing)	|	Overview of fuzzing	|	Not started	|
+| [Modern Source Fuzzing](https://www.youtube.com/watch?v=xzG0pLM4Q64)	|	Overview of fuzzing     |       Not started     |
 | [Fuzz Smarter Not Harder An afl fuzz Primer](https://www.youtube.com/watch?v=29RbO5bftwo)	|	afl	|	Not started	|
 | [The Smart Fuzzer Revolution by Dan Guido](https://www.youtube.com/watch?v=g1E2Ce5cBhI)	|	History and future (from 2016 POV) of fuzzing	|	Not started	|
 | [Fuzzing Like It’s 1989](https://blog.trailofbits.com/2018/12/31/fuzzing-like-its-1989/)	|	placeholder	|	Not started	|
 | [Parser Parser Combinators for Program Transformation](https://www.youtube.com/watch?v=JMZLBB_BFNg)	|	Story behind comby.dev	|	Not started	|
 | | |
 | [Adventures in Fuzzing - NYU Talk 2018](https://www.youtube.com/watch?v=SngK4W4tVc0)	|	fuzzing	|	Not started	|
+| [Structured Fuzzing](https://www.youtube.com/watch?v=S8JvzWDnjc0)	|	structured fuzzing	|	Not started	|
+| [No source, no problem! High speed binary fuzzing](https://www.youtube.com/watch?v=ysZ9w3PcYVU)	|	Static rewriting for fuzzing	|	Not started	|
 | [Fuzzing for Humans: Real Fuzzing in the Real World](https://www.youtube.com/watch?v=N3Z4C2D15JM)	|	fuzzing	|	Not started	|
 | [Automated Testing of Crypto Software Using Differential Fuzzing](https://www.youtube.com/watch?v=04Rzu7peZU4)	|	differential fuzzing	|	Not started	|
 | [Exposing Hidden Exploitable Behaviors In Programming Languages Using Differential Fuzzing](https://www.youtube.com/watch?v=yJ-9_T19y0E)	|	Differential fuzzing	|	Not started	|
 | [Effective File Format Fuzzing – Thoughts, Techniques and Results](https://www.youtube.com/watch?v=qTTwqFRD1H8)	|	file format fuzzing	|	Not started	|
 | [Deconstructing programs for compiler fuzzing](https://comby.dev/blog/2022/04/11/comby-decomposer-compiler-fuzzing)	|	Compiler fuzzing	|	Not started	|
+| [Adventures in Fuzzing Instruction Selection](https://www.youtube.com/watch?v=UBbQ_s6hNgg)	|	Compiler fuzzing        |       Not started     |
 | [DNS parser, meet Go fuzzer](https://blog.cloudflare.com/dns-parser-meet-go-fuzzer/)	|	GO fuzzing	|	Not started	|
 | [Inside the Black Box | How We Fuzzed Microsoft Defender for IoT and Found Multiple Vulnerabilities](https://www.sentinelone.com/labs/inside-the-black-box-how-we-fuzzed-microsoft-defender-for-iot-and-found-multiple-vulnerabilities/)	|	Fuzzing microsoft defender	|	Not started	|
 | [A gentle introduction to Linux Kernel fuzzing](https://blog.cloudflare.com/a-gentle-introduction-to-linux-kernel-fuzzing/)	|	Linux kernel fuzzing	|	Not started	|
@@ -34,6 +38,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Evaluating IoT firmware through emulation and fuzzing](https://www.jtsec.es/blog-entry/113/evaluating-iot-firmware-through-emulation-and-fuzzing)	| fuzzing fireware, emulation	| Not started	|
 | [Fuzzing Hardware Like Software](https://www.usenix.org/conference/usenixsecurity22/presentation/trippel)	|	Hardware fuzzing	|	Not started	|
 | [Fuzzing sockets, part 1: FTP servers](https://securitylab.github.com/research/fuzzing-sockets-FTP/)	| socket-based fuzzing	| Not started	|
+| [Catch Me If You Can: Deterministic Discovery of Race Conditions with Fuzzing](https://www.youtube.com/watch?v=OpQvXGJcH4s)	|	race conditions fuzzing	|	Not started	|
 | [Introduction to VirtualBox security research](https://blog.doyensec.com/2022/04/26/vbox-fuzzing.html)	|	Network device drivers fuzzing	| Not started	|
 | [Fuzz the Unfuzzable](https://netsec.expert/posts/fuzz-the-unfuzzable/)	| fuzzing non-crashing bugs	| Not started	|
 | [A Story of a Bug Found Fuzzing](https://microsoftedge.github.io/edgevr/posts/a-story-of-a-bug-found-fuzzing/#what-happened)	| fuzzer development	| Not started	|
@@ -67,6 +72,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [FIRMWARE SECURITY: A GUIDE TO LEARNING FIRMWARE PENTESTING FROM ZERO TO ONE](https://store.expliot.io/blogs/iot/firmware-security-fu-a-guide-to-learning-firmware-pentesting-from-zero-to-one)	|	firmware security learning guide	|	Not started	|
 | [Beaconfuzz](https://www.youtube.com/watch?v=nERNZ5mL46Q)	|	blockchain fuzzing	|	Not started	|
 | | |
+| [Your Mitigations Are My Opportunities](https://www.youtube.com/watch?v=YnxGW8Fvqvk)	|	windows exploitation	|	Not started	|
 | [Advanced Windows exploit development resources](https://github.com/FULLSHADE/WindowsExploitationResources)	|	Windows exploit dev	|	Not started	|
 | [Dirty Vanity: A New Approach to Code Injection & EDR Bypass](https://www.youtube.com/watch?v=Fpb4eL3vMgk)	|	windows code injection	|	Not started	|
 | [awesome windows logical bugs](https://github.com/sailay1996/awesome_windows_logical_bugs)	|	windows logical LPE	|	Not started	|
@@ -116,6 +122,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [NASM Assembly Language Tutorials](https://asmtutor.com/)     |       x86 NASM assembly       |       Not started     |
 | [INTRODUCTION TO ARM ASSEMBLY BASICS](https://azeria-labs.com/writing-arm-assembly-part-1/)   |       ARM assembly    | Not started   |
 | | |
+| [No Key No PIN No Combo No Problem Pwning ATMs For Fun and Profit](https://www.youtube.com/watch?v=9cG-JL0LHYw)	|	ATM hacking with references to prior arts	|	Not started	|
 | [How to Lose at Tetris](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.55.8562&rep=rep1&type=pdf)	|	tetris proof	|	Not started	|
 | [Abusing Password Managers with XSS](https://www.youtube.com/watch?v=oMw7vjbYF_U)	|	password managers	|	Not started	|
 | [Reverse Engineering Coin Hunt World’s Binary Protocol](https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/)	|	placeholder	|	Not started	|
@@ -127,12 +134,14 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Building your own profiling and diagnosis tools with Event Tracing for Windows](https://www.youtube.com/watch?v=gBkvAO02qUY)	|	windows diagnosis tools development	|	Not started	|
 | [Building an offensive Windows RPC interface](https://blog.whiteflag.io/blog/weaponizing-windows-rpc-interfaces/)	|	build RPC interface	| Not started	|
 | [Toxic Proxies - Bypassing HTTPS & VPNs to pwn your online identity](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEF%20CON%2024%20-%20Chapman-Stone-Toxic-Proxies-Bypassing-HTTPS-and-VPNs-UPDATED.pdf)	| VPN bypass, privacy leak	| Not started	|
+| [How Russia is trying to block Tor](https://www.youtube.com/watch?v=YlZZQYLIXe8)	|	privacy	|	Not started	|
 | [Machine Dumping 101: Pwning Deep Learning Systems](https://www.youtube.com/watch?v=JAGDpJFFM2A)	|	Deep learning intro & attacks	|	Not started	|
 | [Espressif ESP32: Breaking HW AES with Power Analysis](https://raelize.com/blog/espressif-systems-esp32-breaking-hw-aes-with-power-analysis/)		|	Hardware side channels	|	Not started	|
 | [Hakluke: Creating the Perfect Bug Bounty Automation](https://labs.detectify.com/2021/11/30/hakluke-creating-the-perfect-bug-bounty-automation/)	| bug bounty automation	| Not started	|
 | [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)	|	place holder	| Not started	|
 | [RECOVERING A FULL PEM PRIVATE KEY WHEN HALF OF IT IS REDACTED](https://blog.cryptohack.org/twitter-secrets)	|	Cryptography	| Not started	|
 | [Never, Ever, Ever Use Pixelation for Redacting Text](https://bishopfox.com/blog/unredacter-tool-never-pixelation)	|	de-pixelation	|	Not started	|
+| [Stealing Profits from Spammers or: How I learned to Stop Worrying and Love the Spam](https://www.youtube.com/watch?v=ytDamqTjPwg)	|	stock spam study	|	Not started	|
 | [Stealing Bitcoin with Math](https://www.youtube.com/watch?v=f2s3_UG9IPU)	|	Cryptocurrency	|	Not started	|
 | [The Blockchain Developer: A Practical Guide for Designing, Implementing, Publishing, Testing, and Securing Distributed Blockchain-based Projects](https://www.amazon.com/Blockchain-Developer-Implementing-Distributed-Blockchain-based/dp/1484248465)	|	blockchain development	|	Not started	|
 | [Fake It Until You Make It: Using Deep Fakes to Bypass Voice Biometrics](https://www.netspi.com/blog/technical/adversary-simulation/using-deep-fakes-to-bypass-voice-biometrics/)	| Deepfake training	| Not started	|
