@@ -137,6 +137,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Fake It Until You Make It: Using Deep Fakes to Bypass Voice Biometrics](https://www.netspi.com/blog/technical/adversary-simulation/using-deep-fakes-to-bypass-voice-biometrics/)	| Deepfake training	| Not started	|
 | [The Basics of Social Engineering](https://www.youtube.com/watch?v=tCRT3QFzwm8)	|	Social engineering	|	Not started	|
 | [bellebytes-osint-guide](http://web.archive.org/web/20211020073413/https://stormctf.ninja/ctf/blog/stormctf/bellebytes-osint-guide)	OSINT	|	Not started	|
+| [Bellingcat's Online Investigation Toolkit](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=118277455)	|	bellingcat OSINT resources	|	Not started	|
 | [How to Create an Anonymous Identity](https://www.youtube.com/watch?v=8eUieqRrU7s)	|	operation security	|	Not started	|
 | [Physical Security - Everything That's Wrong With Your Typical Door](https://www.youtube.com/watch?v=raBMFqZRB0s)	|	physical pentest	|	Not started	|
 | [Tactics of Physical Pen Testers](https://www.youtube.com/watch?v=VJ4FDOw9NcI)	|	physical pentest        |       Not started     |
@@ -149,6 +150,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)	|	Speech skills	|	Not started	|
 | [From Noob to Less Noob "Wisdom" from 10 years of CTFs](https://docs.google.com/presentation/d/1Qz7doMIRqgLc_X0_KA1qYY-CwF1fAeG1MQw2zZvK0Rs/edit#slide=id.p)	|	How to improve yourself when you are not the smartest among people arround you	|	Done	|
 | [research101](https://github.com/drtychai/research101)	|	how to start doing research, tips for learning and staying updated	|	Done	|
+| [How I choose a security research topic](https://portswigger.net/research/how-i-choose-a-security-research-topic)	|	how to do research	|	Done	|
 | [Career / Interview Advice for Reverse Engineers](https://www.youtube.com/watch?v=5PTeYipf8mc)	|	career advice	|	Not started	|
 | [How to Social Engineer your way into your dream job](https://www.youtube.com/watch?v=__lvS2pjuSg)	|	career advice   |       Not started     |
 | [Why I Love Offensive Work, Why I don't Love Offensive Work](https://www.youtube.com/watch?v=8QRnOpjmneo)	|	career advice   |       Not started     |
