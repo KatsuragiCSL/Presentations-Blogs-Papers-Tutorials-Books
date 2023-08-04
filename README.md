@@ -171,7 +171,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Unlocking Your Intuition: How to Solve Hard Problems Easily](https://www.youtube.com/watch?v=1f6N2UrCK6o)	|	learning	|	Done	|
 | [How to Train Yourself to Visualize Anything](https://www.youtube.com/watch?v=p4xFVJTyJZg)	|	learning        |       Done    |
 | [The Black Box Method: How to Learn Hard Concepts Quickly](https://www.youtube.com/watch?v=RDzsrmMl48I)	|	learning 	|	Done     |
-| [How to Awaken & Enhance Your Analytical Problem-Solving Mind](https://www.youtube.com/watch?v=-jmxvq0rF9o)	|	learning        |       Not started     |
+| [How to Awaken & Enhance Your Analytical Problem-Solving Mind](https://www.youtube.com/watch?v=-jmxvq0rF9o)	|	learning        |       Done     |
 | [Focusing Your Unconscious Mind: Learn Hard Concepts Intuitively (And Forever)](https://www.youtube.com/watch?v=Dm68uFy6gus)	|	learning        |       Not started     |
 | [Learning to Learn: Math Abstraction](https://betterexplained.com/articles/learning-to-learn-math-abstraction/)	| Learning, Maths	|	Not started	|
 | [The Art of Doing Science and Engineering: Learning to Learn](https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/1732265178)	|	learning	|	Not started	|
