@@ -169,7 +169,8 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Why I Love Offensive Work, Why I don't Love Offensive Work](https://www.youtube.com/watch?v=8QRnOpjmneo)	|	career advice   |       Not started     |
 | [Project Zero: Five Years of 'Make 0Day Hard'](https://www.youtube.com/watch?v=vn7YIAiOnYw)	|	learning	|	Not started	|
 | [Unlocking Your Intuition: How to Solve Hard Problems Easily](https://www.youtube.com/watch?v=1f6N2UrCK6o)	|	learning	|	Done	|
-| [The Black Box Method: How to Learn Hard Concepts Quickly](https://www.youtube.com/watch?v=RDzsrmMl48I)	|	learning 	|	Not started     |
+| [How to Train Yourself to Visualize Anything](https://www.youtube.com/watch?v=p4xFVJTyJZg)	|	learning        |       Done    |
+| [The Black Box Method: How to Learn Hard Concepts Quickly](https://www.youtube.com/watch?v=RDzsrmMl48I)	|	learning 	|	Done     |
 | [How to Awaken & Enhance Your Analytical Problem-Solving Mind](https://www.youtube.com/watch?v=-jmxvq0rF9o)	|	learning        |       Not started     |
 | [Focusing Your Unconscious Mind: Learn Hard Concepts Intuitively (And Forever)](https://www.youtube.com/watch?v=Dm68uFy6gus)	|	learning        |       Not started     |
 | [Learning to Learn: Math Abstraction](https://betterexplained.com/articles/learning-to-learn-math-abstraction/)	| Learning, Maths	|	Not started	|
