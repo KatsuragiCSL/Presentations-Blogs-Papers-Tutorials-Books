@@ -70,6 +70,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [CVE-2020-8835: LINUX KERNEL PRIVILEGE ESCALATION VIA IMPROPER EBPF PROGRAM VERIFICATION](https://www.zerodayinitiative.com/blog/2020/4/8/cve-2020-8835-linux-kernel-privilege-escalation-via-improper-ebpf-program-verification)	| linux kernel exploitation, eBPF	| Not started	|
 | [Fuzzing for eBPF JIT bugs in the Linux kernel](https://scannell.io/posts/ebpf-fuzzing/)	| linux kernel exploitation, eBPF, fuzzing	| Not started	|
 | [You can be a kernel hacker!](https://jvns.ca/blog/2014/09/18/you-can-be-a-kernel-hacker/)	|	Starting linux kernel development	|	Not started	|
+| [Rustproofing Linux](https://research.nccgroup.com/2023/02/06/rustproofing-linux-part-1-4-leaking-addresses/)	|	linux rust code audit	|	Not started     |
 | [Rooting with root cause: finding a variant of a Project Zero bug](https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/)	|	ARM driver bugs writeup	|	Not started	|
 | [Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)	|	Firmware/ hackware hacking, emulation	|	Not started	|
 | [FIRMWARE SECURITY: A GUIDE TO LEARNING FIRMWARE PENTESTING FROM ZERO TO ONE](https://store.expliot.io/blogs/iot/firmware-security-fu-a-guide-to-learning-firmware-pentesting-from-zero-to-one)	|	firmware security learning guide	|	Not started	|
@@ -127,6 +128,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [NASM Assembly Language Tutorials](https://asmtutor.com/)     |       x86 NASM assembly       |       Not started     |
 | [INTRODUCTION TO ARM ASSEMBLY BASICS](https://azeria-labs.com/writing-arm-assembly-part-1/)   |       ARM assembly    | Not started   |
 | | |
+| [Let's build a Chrome extension that steals everything](https://mattfrisbie.substack.com/p/spy-chrome-extension)	|	place holder	|	Not started	|
 | [No Key No PIN No Combo No Problem Pwning ATMs For Fun and Profit](https://www.youtube.com/watch?v=9cG-JL0LHYw)	|	ATM hacking with references to prior arts	|	Not started	|
 | [How to Lose at Tetris](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.55.8562&rep=rep1&type=pdf)	|	tetris proof	|	Not started	|
 | [Abusing Password Managers with XSS](https://www.youtube.com/watch?v=oMw7vjbYF_U)	|	password managers	|	Not started	|
@@ -169,6 +171,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [How to become the best Malware Analyst E-V-E-R](http://www.hexacorn.com/blog/2018/04/14/how-to-become-the-best-malware-analyst-e-v-e-r/)	|	advice in learning malware analysis	|	Not started	|
 | [Career / Interview Advice for Reverse Engineers](https://www.youtube.com/watch?v=5PTeYipf8mc)	|	career advice	|	Not started	|
 | [How to Social Engineer your way into your dream job](https://www.youtube.com/watch?v=__lvS2pjuSg)	|	career advice   |       Not started     |
+| [Elitism as the Mid-Career Growth Engine](https://stkbailey.substack.com/p/elitism-as-the-mid-career-growth)	|	career advice   |       Not started     |
 | [Why I Love Offensive Work, Why I don't Love Offensive Work](https://www.youtube.com/watch?v=8QRnOpjmneo)	|	career advice   |       Not started     |
 | [Project Zero: Five Years of 'Make 0Day Hard'](https://www.youtube.com/watch?v=vn7YIAiOnYw)	|	learning	|	Not started	|
 | [Unlocking Your Intuition: How to Solve Hard Problems Easily](https://www.youtube.com/watch?v=1f6N2UrCK6o)	|	learning	|	Done	|
