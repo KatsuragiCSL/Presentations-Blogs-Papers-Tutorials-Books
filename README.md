@@ -10,6 +10,8 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [It Depends: Why Managing Nuance Matters for Red Teams](https://jackson_t.gitlab.io/it-depends.html)	|	Red team management	|	Not started	|
 | [How Do You Actually Find Bugs?](https://www.youtube.com/watch?v=7Ysy6iA2sqA) |       Methodology of vulnerability research   |       Not started     |
 | [Write My Own Security Tooling & Why You Should Too!](https://www.youtube.com/watch?v=c2HVyPDJdq4)	|	Methodology of vulnerability research   |       Not started     |
+| [Security Research and the Creative Process](https://medium.com/@yardenshafir2/security-research-and-the-creative-process-552fd91f52a7)	|	Methodology of vulnerability research   |       Done     |
+| [Researchers, what do you use as your source of inspiration?](https://twitter.com/_xpn_/status/1515987957894848513)	|	Methodology of vulnerability research   |       Done     |
 | | |
 | [An Intro to Fuzzing (AKA Fuzz Testing)](https://bishopfox.com/blog/fuzzing-aka-fuzz-testing)	|	Overview of fuzzing	|	Not started	|
 | [Modern Source Fuzzing](https://www.youtube.com/watch?v=xzG0pLM4Q64)	|	Overview of fuzzing     |       Not started     |
