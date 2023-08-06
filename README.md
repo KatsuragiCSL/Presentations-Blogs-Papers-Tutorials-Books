@@ -180,6 +180,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [How to Awaken & Enhance Your Analytical Problem-Solving Mind](https://www.youtube.com/watch?v=-jmxvq0rF9o)	|	learning        |       Done     |
 | [Focusing Your Unconscious Mind: Learn Hard Concepts Intuitively (And Forever)](https://www.youtube.com/watch?v=Dm68uFy6gus)	|	learning        |       Not started     |
 | [Learning to Learn: Math Abstraction](https://betterexplained.com/articles/learning-to-learn-math-abstraction/)	| Learning, Maths	|	Not started	|
+| [The Art of Insight in Science and Engineering: Mastering Complexity](https://www.amazon.com/Art-Insight-Science-Engineering-Complexity/dp/0262526549)	|	learning	|	In progress	|
 | [The Art of Doing Science and Engineering: Learning to Learn](https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/1732265178)	|	learning	|	Not started	|
 | [15-year-old did mathematical research?! What was my thinking process back then?](https://www.youtube.com/watch?v=J-4FnbnFIKQ)	|	learning, math. research	|	Not started	|
 | [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050)	|	learning, thinking	|	Not started	|
