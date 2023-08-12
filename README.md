@@ -170,7 +170,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [How I choose a security research topic](https://portswigger.net/research/how-i-choose-a-security-research-topic)	|	how to do research	|	Done	|
 | [How to become the best Malware Analyst E-V-E-R](http://www.hexacorn.com/blog/2018/04/14/how-to-become-the-best-malware-analyst-e-v-e-r/)	|	advice in learning malware analysis	|	Not started	|
 | [Career / Interview Advice for Reverse Engineers](https://www.youtube.com/watch?v=5PTeYipf8mc)	|	career advice	|	Not started	|
-| [How to Social Engineer your way into your dream job](https://www.youtube.com/watch?v=__lvS2pjuSg)	|	career advice   |       Not started     |
+| [How to Social Engineer your way into your dream job](https://www.youtube.com/watch?v=__lvS2pjuSg)	|	career advice   |       Done     |
 | [Elitism as the Mid-Career Growth Engine](https://stkbailey.substack.com/p/elitism-as-the-mid-career-growth)	|	career advice   |       Done     |
 | [Why I Love Offensive Work, Why I don't Love Offensive Work](https://www.youtube.com/watch?v=8QRnOpjmneo)	|	career advice   |       Not started     |
 | [Project Zero: Five Years of 'Make 0Day Hard'](https://www.youtube.com/watch?v=vn7YIAiOnYw)	|	learning	|	Not started	|
@@ -193,5 +193,4 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567)    |       placeholder     |       Not started     |
 | [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)	|	UX design	|	Not started	|
 | [How to Build a Product that Scales into a Company](https://www.youtube.com/watch?v=r-98YRAF1dY)      |       Entrepreneurship        | Not started   |
-| [Thinking Strategically: The Competitive Edge in Business, Politics, and Everyday Life](https://www.amazon.com/Thinking-Strategically-Competitive-Business-Paperback-ebook/dp/B002OJIBLU)	|	Thinking	|	Not started	|
 | [Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass](https://www.amazon.com/Ghost-Work-Silicon-Building-Underclass/dp/1328566242)	|	How technology changed labor market and how people live	|	Not started	|
