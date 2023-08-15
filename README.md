@@ -87,6 +87,8 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [BlueHat v18 || Mitigation Bypass: The Past, Present, and Future](https://www.youtube.com/watch?v=WsoFmN3oDw8)	|	Windows defense bypass history	|	Not started	|
 | [Unknown Known DLLs... and other Code Integrity Trust Violations](http://publications.alex-ionescu.com/Recon/Recon%202018%20-%20Unknown%20Known%20DLLs%20and%20other%20code%20integrity%20trust%20violations.pdf)	|	windows code integrity	|	Not started	|
 | | |
+| [Kernel Debugging macOS with SIP](https://theevilbit.github.io/posts/kernel_debugging_with_sip/)	|	Mac   | Not started   |
+| [macOS Security Features Bypasses by Example](https://www.youtube.com/watch?v=xolJTvB5hpA)    |       Mac   | Not started   |
 | [macOS Vulnerabilities Hiding in Plain Sight](https://www.youtube.com/watch?v=Nvpo-kP6C9s)	|	Mac Exploits	|	Not started	|
 | [Smart Fuzzing XPC & XNU](https://www.youtube.com/watch?v=733YrNioR78)	|	fuzzing, Mac	|	Not started     |
 | [Summer of Fuzz: MacOS](https://www.youtube.com/watch?v=T5xfL9tEg44)		|       fuzzing, Mac    |       Not started     |
