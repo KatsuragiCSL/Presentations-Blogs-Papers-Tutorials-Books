@@ -172,7 +172,6 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [How I choose a security research topic](https://portswigger.net/research/how-i-choose-a-security-research-topic)	|	how to do research	|	Done	|
 | [How to become the best Malware Analyst E-V-E-R](http://www.hexacorn.com/blog/2018/04/14/how-to-become-the-best-malware-analyst-e-v-e-r/)	|	advice in learning malware analysis	|	Not started	|
 | [Career / Interview Advice for Reverse Engineers](https://www.youtube.com/watch?v=5PTeYipf8mc)	|	career advice	|	Not started	|
-| [How to Social Engineer your way into your dream job](https://www.youtube.com/watch?v=__lvS2pjuSg)	|	career advice   |       Done     |
 | [Elitism as the Mid-Career Growth Engine](https://stkbailey.substack.com/p/elitism-as-the-mid-career-growth)	|	career advice   |       Done     |
 | [Why I Love Offensive Work, Why I don't Love Offensive Work](https://www.youtube.com/watch?v=8QRnOpjmneo)	|	career advice   |       Not started     |
 | [Project Zero: Five Years of 'Make 0Day Hard'](https://www.youtube.com/watch?v=vn7YIAiOnYw)	|	learning	|	Not started	|
