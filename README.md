@@ -121,7 +121,8 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [RESEARCHING VPN APPLICATIONS](https://www.securify.nl/blog/reseaching-vpn-applications-part-1-vpn-internals/)	|	Reverse Engineering VPN app	| Not started	|
 | [ESET - Malware analyst challenge](http://www.nullsecurity.org/article/eset_malware_anlyst_challenge)	|	ESET RE chall writeup	|	Not started	|
 | [Reversing GO Binaries With Ghidra ](https://www.youtube.com/watch?v=J2svN8h21oo)	|	Golang reverse engineering	|	Not started	|
-| [Detecting Indirect Syscalls from Userland, A Naive Approach.](https://fool.ish.wtf/2022/11/detecting-indirect-syscalls.html) |       Detecting indirect syscalls     |
+| [Detecting Indirect Syscalls from Userland, A Naive Approach.](https://fool.ish.wtf/2022/11/detecting-indirect-syscalls.html) |       Detecting indirect syscalls     |	Not started	|
+| [D-Generating EDR Internals](https://fool.ish.wtf/2022/09/d-generating-edr-internals-part-1.html)	|	tracing EDR	|	Not started	|
 | [How to write a CrackMe for a CTF competition](https://www.pelock.com/articles/how-to-write-a-crackme-for-a-ctf-competition)	|	Writing crackme	|	Not started	|
 | [Defeating the RECon's movfuscator crackme](https://dustri.org/b/defeating-the-recons-movfuscator-crackme.html)	|	reversing movuscator	|	Not started	|
 | [Automated Reverse Engineering of Relationships Between Data Structures in C++ Binaries](https://research.nccgroup.com/wp-content/uploads/episerver-images/assets/2dd73140d5c6453f9fb079ac5374b1b0/2dd73140d5c6453f9fb079ac5374b1b0.pdf)	|	Windows, automated reverse engineering	|	Not started	|
@@ -173,6 +174,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [How to become the best Malware Analyst E-V-E-R](http://www.hexacorn.com/blog/2018/04/14/how-to-become-the-best-malware-analyst-e-v-e-r/)	|	advice in learning malware analysis	|	Not started	|
 | [Career / Interview Advice for Reverse Engineers](https://www.youtube.com/watch?v=5PTeYipf8mc)	|	career advice	|	Not started	|
 | [Elitism as the Mid-Career Growth Engine](https://stkbailey.substack.com/p/elitism-as-the-mid-career-growth)	|	career advice   |       Done     |
+| [Career advice by Terence Tao](https://terrytao.wordpress.com/career-advice/)	|	career advice   |       Not started     |
 | [Why I Love Offensive Work, Why I don't Love Offensive Work](https://www.youtube.com/watch?v=8QRnOpjmneo)	|	career advice   |       Not started     |
 | [Project Zero: Five Years of 'Make 0Day Hard'](https://www.youtube.com/watch?v=vn7YIAiOnYw)	|	learning	|	Not started	|
 | [Unlocking Your Intuition: How to Solve Hard Problems Easily](https://www.youtube.com/watch?v=1f6N2UrCK6o)	|	learning	|	Done	|
