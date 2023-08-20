@@ -175,7 +175,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Career / Interview Advice for Reverse Engineers](https://www.youtube.com/watch?v=5PTeYipf8mc)	|	career advice	|	Not started	|
 | [Elitism as the Mid-Career Growth Engine](https://stkbailey.substack.com/p/elitism-as-the-mid-career-growth)	|	career advice   |       Done     |
 | [Career advice by Terence Tao](https://terrytao.wordpress.com/career-advice/)	|	career advice   |       Not started     |
-| [Why I Love Offensive Work, Why I don't Love Offensive Work](https://www.youtube.com/watch?v=8QRnOpjmneo)	|	career advice   |       Not started     |
+| [Why I Love Offensive Work, Why I don't Love Offensive Work](https://www.youtube.com/watch?v=8QRnOpjmneo)	|	career advice   |       Done     |
 | [Project Zero: Five Years of 'Make 0Day Hard'](https://www.youtube.com/watch?v=vn7YIAiOnYw)	|	learning	|	Not started	|
 | [Unlocking Your Intuition: How to Solve Hard Problems Easily](https://www.youtube.com/watch?v=1f6N2UrCK6o)	|	learning	|	Done	|
 | [How to Train Yourself to Visualize Anything](https://www.youtube.com/watch?v=p4xFVJTyJZg)	|	learning        |       Done    |
