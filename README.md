@@ -136,6 +136,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [How to Lose at Tetris](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.55.8562&rep=rep1&type=pdf)	|	tetris proof	|	Not started	|
 | [Abusing Password Managers with XSS](https://www.youtube.com/watch?v=oMw7vjbYF_U)	|	password managers	|	Not started	|
 | [Reverse Engineering Coin Hunt World’s Binary Protocol](https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/)	|	placeholder	|	Not started	|
+| [Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”](https://securityintelligence.com/x-force/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/)	|	exploit analysis	|	Not started	|
 | [reverse engineering candy-crush-saga on ios using lldb and hopper](https://www.youtube.com/watch?v=_i_v6pWqDQQ)	|	placeholder     |       Not started     |
 | [Great Impractical Ideas in Computer Science: PowerPoint Programming](Great Impractical Ideas in Computer Science: PowerPoint Programming)	|	placeholder	|	Not started	|
 | [Windows Offender: Reverse Engineering Windows Defender's Antivirus Emulator](https://www.youtube.com/watch?v=wDNQ-8aWLO0)	|	Reversing windows defender	|	Not started	|
@@ -184,12 +185,11 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Focusing Your Unconscious Mind: Learn Hard Concepts Intuitively (And Forever)](https://www.youtube.com/watch?v=Dm68uFy6gus)	|	learning        |       Done     |
 | [Learning to Learn: Math Abstraction](https://betterexplained.com/articles/learning-to-learn-math-abstraction/)	| Learning, Maths	|	Done	|
 | [Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/)	|	learning	|	Done	|
-| [The Art of Doing Science and Engineering: Learning to Learn](https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/1732265178)	|	learning	|	Not started	|
 | [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)	|	Learning, programming	| Not started	|
 | [How the Best Hackers Learn Their Craft](https://www.youtube.com/watch?v=6vj96QetfTg)	|	Learning, CTF   |       Not started     |
 | [Becoming a full-stack reverse-engineer](https://www.youtube.com/watch?v=9vKG8-TnawY)	|	Learning, reverse engineering	|	Not started	|
 | [How I Rob Banks: And Other Such Places](https://www.amazon.com/How-Rob-Banks-Other-Places/dp/1119911478)	|	Physical pentesting, Social engineering	|	Not started	|
-| [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)	|	Soft skills	|	Not started	|
+| [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)	|	Soft skills	|	In progress	|
 | [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)	|	Historical approach of introdution to computation	|	Not started	|
 | [Mythical Man-Month, The: Essays on Software Engineering](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)	|	Software project management	|	Not started	|
 | [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)        |       project management      |       Not started     |
