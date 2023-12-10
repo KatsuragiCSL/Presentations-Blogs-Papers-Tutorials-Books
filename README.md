@@ -164,7 +164,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Tactics of Physical Pen Testers](https://www.youtube.com/watch?v=VJ4FDOw9NcI)	|	physical pentest        |       Not started     |
 | [How To Become a Physical Penetration Tester](https://www.youtube.com/watch?v=zNOO702dEl4)	|	becoming physical security consultant	|	Not started	|
 | [Lockpicking Forensics](https://www.youtube.com/watch?v=AVZzBjK1kmI)	|	Lockpicking forensics	|	Not started	|
-| [When Cybercriminals with Good OpSec Attack](https://www.youtube.com/watch?v=zXmZnU2GdVk)	|	OpSec	|	Not started	|
+| [When Cybercriminals with Good OpSec Attack](https://www.youtube.com/watch?v=zXmZnU2GdVk)	|	OpSec	|	Done	|
 | [The Grugq - OPSEC: Because Jail is for wuftpd](https://www.youtube.com/watch?v=9XaYdCdwiWU)	|	OpSec   |       Not started     |
 | [Tor: Darknet OpSec By a Veteran Darknet Vendor & the Hackers Mentality](https://www.youtube.com/watch?v=NGiUhjuB22Y)	|	OpSec   |       Not started     |
 | | |
@@ -187,7 +187,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/)	|	learning	|	Done	|
 | [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)	|	Learning, programming	| Not started	|
 | [How the Best Hackers Learn Their Craft](https://www.youtube.com/watch?v=6vj96QetfTg)	|	Learning, CTF   |       Not started     |
-| [Becoming a full-stack reverse-engineer](https://www.youtube.com/watch?v=9vKG8-TnawY)	|	Learning, reverse engineering	|	Not started	|
+| [Becoming a full-stack reverse-engineer](https://www.youtube.com/watch?v=9vKG8-TnawY)	|	Learning, reverse engineering	|	Done	|
 | [How I Rob Banks: And Other Such Places](https://www.amazon.com/How-Rob-Banks-Other-Places/dp/1119911478)	|	Physical pentesting, Social engineering	|	Not started	|
 | [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)	|	Soft skills	|	In progress	|
 | [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)	|	Historical approach of introdution to computation	|	Not started	|
