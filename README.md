@@ -166,7 +166,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Lockpicking Forensics](https://www.youtube.com/watch?v=AVZzBjK1kmI)	|	Lockpicking forensics	|	Not started	|
 | [When Cybercriminals with Good OpSec Attack](https://www.youtube.com/watch?v=zXmZnU2GdVk)	|	OpSec	|	Done	|
 | [The Grugq - OPSEC: Because Jail is for wuftpd](https://www.youtube.com/watch?v=9XaYdCdwiWU)	|	OpSec   |       Not started     |
-| [Tor: Darknet OpSec By a Veteran Darknet Vendor & the Hackers Mentality](https://www.youtube.com/watch?v=NGiUhjuB22Y)	|	OpSec   |       Not started     |
+| [Tor: Darknet OpSec By a Veteran Darknet Vendor & the Hackers Mentality](https://www.youtube.com/watch?v=NGiUhjuB22Y)	|	OpSec   |       Done     |
 | | |
 | [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)	|	Speech skills	|	Done	|
 | [From Noob to Less Noob "Wisdom" from 10 years of CTFs](https://docs.google.com/presentation/d/1Qz7doMIRqgLc_X0_KA1qYY-CwF1fAeG1MQw2zZvK0Rs/edit#slide=id.p)	|	How to improve yourself when you are not the smartest among people arround you	|	Done	|
@@ -191,6 +191,8 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [How I Rob Banks: And Other Such Places](https://www.amazon.com/How-Rob-Banks-Other-Places/dp/1119911478)	|	Physical pentesting, Social engineering	|	Not started	|
 | [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)	|	Soft skills	|	In progress	|
 | [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)	|	Historical approach of introdution to computation	|	Not started	|
+| [The Architecture of Open Source Applications](https://aosabook.org/en/)	| architecture of great softwares	|	Not started	|
+| [Teaching Tech Together](https://teachtogether.tech/en/index.html)	| how to teach tech stuff and build a teaching community	|	Not started	|
 | [Mythical Man-Month, The: Essays on Software Engineering](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)	|	Software project management	|	Not started	|
 | [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)        |       project management      |       Not started     |
 | [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567)    |       placeholder     |       Not started     |
