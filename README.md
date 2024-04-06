@@ -11,7 +11,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [How Do You Actually Find Bugs?](https://www.youtube.com/watch?v=7Ysy6iA2sqA) |       Methodology of vulnerability research   |       Not started     |
 | [Write My Own Security Tooling & Why You Should Too!](https://www.youtube.com/watch?v=c2HVyPDJdq4)	|	Methodology of vulnerability research   |       Not started     |
 | [Security Research and the Creative Process](https://medium.com/@yardenshafir2/security-research-and-the-creative-process-552fd91f52a7)	|	Methodology of vulnerability research   |       Done     |
-| [Researchers, what do you use as your source of inspiration?](https://twitter.com/_xpn_/status/1515987957894848513)	|	Methodology of vulnerability research   |       Done     |
+| [Researchers, what do you use as your source of inspiration?](https://twitter.com/_xpn_/status/1515987957894848513)	|	Methodology of vulnerability research   |       Not started     |
 | [Demystifying Security Research](https://alexplaskett.github.io/demystifying-security-research-part1/)	|	Methodology of vulnerability research   |       Done     |
 | | |
 | [An Intro to Fuzzing (AKA Fuzz Testing)](https://bishopfox.com/blog/fuzzing-aka-fuzz-testing)	|	Overview of fuzzing	|	Not started	|
@@ -189,7 +189,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [How the Best Hackers Learn Their Craft](https://www.youtube.com/watch?v=6vj96QetfTg)	|	Learning, CTF   |       Not started     |
 | [Becoming a full-stack reverse-engineer](https://www.youtube.com/watch?v=9vKG8-TnawY)	|	Learning, reverse engineering	|	Done	|
 | [How I Rob Banks: And Other Such Places](https://www.amazon.com/How-Rob-Banks-Other-Places/dp/1119911478)	|	Physical pentesting, Social engineering	|	Not started	|
-| [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)	|	Soft skills	|	In progress	|
+| [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)	|	Soft skills	|	Not started	|
 | [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)	|	Historical approach of introdution to computation	|	Not started	|
 | [The Architecture of Open Source Applications](https://aosabook.org/en/)	| architecture of great softwares	|	Not started	|
 | [Teaching Tech Together](https://teachtogether.tech/en/index.html)	| how to teach tech stuff and build a teaching community	|	Not started	|
