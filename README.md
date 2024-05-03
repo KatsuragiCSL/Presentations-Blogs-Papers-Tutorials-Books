@@ -175,6 +175,8 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [How to become the best Malware Analyst E-V-E-R](http://www.hexacorn.com/blog/2018/04/14/how-to-become-the-best-malware-analyst-e-v-e-r/)	|	advice in learning malware analysis	|	Not started	|
 | [Career / Interview Advice for Reverse Engineers](https://www.youtube.com/watch?v=5PTeYipf8mc)	|	career advice	|	Not started	|
 | [Elitism as the Mid-Career Growth Engine](https://stkbailey.substack.com/p/elitism-as-the-mid-career-growth)	|	career advice   |       Done     |
+| [The Software Engineer's Guidebook](https://www.engguidebook.com/)	|	career advice	|	Not started	|
+| [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)	|	career advice	|	Not started	|
 | [Career advice by Terence Tao](https://terrytao.wordpress.com/career-advice/)	|	career advice   |       Not started     |
 | [Why I Love Offensive Work, Why I don't Love Offensive Work](https://www.youtube.com/watch?v=8QRnOpjmneo)	|	career advice   |       Done     |
 | [Project Zero: Five Years of 'Make 0Day Hard'](https://www.youtube.com/watch?v=vn7YIAiOnYw)	|	learning	|	Not started	|
