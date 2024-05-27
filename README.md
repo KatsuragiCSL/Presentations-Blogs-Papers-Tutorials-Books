@@ -178,6 +178,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [The Software Engineer's Guidebook](https://www.engguidebook.com/)	|	career advice	|	Not started	|
 | [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)	|	career advice	|	Not started	|
 | [Career advice by Terence Tao](https://terrytao.wordpress.com/career-advice/)	|	career advice   |       Not started     |
+| [What "Follow Your Dreams" Misses \| Harvey Mudd Commencement Speech 2024]	|	career advice	|	Done	|
 | [Why I Love Offensive Work, Why I don't Love Offensive Work](https://www.youtube.com/watch?v=8QRnOpjmneo)	|	career advice   |       Done     |
 | [Project Zero: Five Years of 'Make 0Day Hard'](https://www.youtube.com/watch?v=vn7YIAiOnYw)	|	learning	|	Not started	|
 | [Unlocking Your Intuition: How to Solve Hard Problems Easily](https://www.youtube.com/watch?v=1f6N2UrCK6o)	|	learning	|	Done	|
