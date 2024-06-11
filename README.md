@@ -18,7 +18,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Modern Source Fuzzing](https://www.youtube.com/watch?v=xzG0pLM4Q64)	|	Overview of fuzzing     |       Not started     |
 | [Fuzz Smarter Not Harder An afl fuzz Primer](https://www.youtube.com/watch?v=29RbO5bftwo)	|	afl	|	Not started	|
 | [The Smart Fuzzer Revolution by Dan Guido](https://www.youtube.com/watch?v=g1E2Ce5cBhI)	|	History and future (from 2016 POV) of fuzzing	|	Not started	|
-| [Fuzzing Like It’s 1989](https://blog.trailofbits.com/2018/12/31/fuzzing-like-its-1989/)	|	placeholder	|	Not started	|
+| [Fuzzing Like It's 1989](https://blog.trailofbits.com/2018/12/31/fuzzing-like-its-1989/)	|	placeholder	|	Not started	|
 | [Parser Parser Combinators for Program Transformation](https://www.youtube.com/watch?v=JMZLBB_BFNg)	|	Story behind comby.dev	|	Not started	|
 | | |
 | [Adventures in Fuzzing - NYU Talk 2018](https://www.youtube.com/watch?v=SngK4W4tVc0)	|	fuzzing	|	Not started	|
@@ -156,7 +156,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Stealing Bitcoin with Math](https://www.youtube.com/watch?v=f2s3_UG9IPU)	|	Cryptocurrency	|	Not started	|
 | [The Blockchain Developer: A Practical Guide for Designing, Implementing, Publishing, Testing, and Securing Distributed Blockchain-based Projects](https://www.amazon.com/Blockchain-Developer-Implementing-Distributed-Blockchain-based/dp/1484248465)	|	blockchain development	|	Not started	|
 | [Fake It Until You Make It: Using Deep Fakes to Bypass Voice Biometrics](https://www.netspi.com/blog/technical/adversary-simulation/using-deep-fakes-to-bypass-voice-biometrics/)	| Deepfake training	| Not started	|
-| [The Basics of Social Engineering](https://www.youtube.com/watch?v=tCRT3QFzwm8)	|	Social engineering	|	Not started	|
+| [The Basics of Social Engineering](https://www.youtube.com/watch?v=tCRT3QFzwm8)	|	Social engineering	|	Done	|
 | [bellebytes-osint-guide](http://web.archive.org/web/20211020073413/https://stormctf.ninja/ctf/blog/stormctf/bellebytes-osint-guide)	OSINT	|	Not started	|
 | [Bellingcat's Online Investigation Toolkit](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=118277455)	|	bellingcat OSINT resources	|	Not started	|
 | [How to Create an Anonymous Identity](https://www.youtube.com/watch?v=8eUieqRrU7s)	|	operation security	|	Not started	|
@@ -178,7 +178,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [The Software Engineer's Guidebook](https://www.engguidebook.com/)	|	career advice	|	Not started	|
 | [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)	|	career advice	|	Not started	|
 | [Career advice by Terence Tao](https://terrytao.wordpress.com/career-advice/)	|	career advice   |       Not started     |
-| [What "Follow Your Dreams" Misses \| Harvey Mudd Commencement Speech 2024]	|	career advice	|	Done	|
+| [What "Follow Your Dreams" Misses \| Harvey Mudd Commencement Speech 2024](https://www.youtube.com/watch?v=W3I3kAg2J7w)	|	career advice	|	Done	|
 | [Why I Love Offensive Work, Why I don't Love Offensive Work](https://www.youtube.com/watch?v=8QRnOpjmneo)	|	career advice   |       Done     |
 | [Project Zero: Five Years of 'Make 0Day Hard'](https://www.youtube.com/watch?v=vn7YIAiOnYw)	|	learning	|	Not started	|
 | [Unlocking Your Intuition: How to Solve Hard Problems Easily](https://www.youtube.com/watch?v=1f6N2UrCK6o)	|	learning	|	Done	|
