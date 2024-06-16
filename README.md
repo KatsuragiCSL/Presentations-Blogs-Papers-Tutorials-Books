@@ -5,10 +5,10 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | Course      | Learning point | Status     |
 | :---        | :----          | :---       |
 | [High-Level Approaches for Finding Vulnerabilities](https://jackson_t.gitlab.io/finding-vulnerabilities.html)	|	bug hunting methodology	|	Not started	|
-| [What Makes Software Exploitation Hard?](https://www.youtube.com/watch?v=ZKIIPu1wqHs)	|	placeholder	|	Done	|
+| [What Makes Software Exploitation Hard?](https://www.youtube.com/watch?v=ZKIIPu1wqHs)	|	Exploit Mitigation	|	Done	|
 | [Operational Mental Models](https://jackson_t.gitlab.io/operational-mental-models.html)	|	Mental model for offensive R&D	|	Not started	|
 | [It Depends: Why Managing Nuance Matters for Red Teams](https://jackson_t.gitlab.io/it-depends.html)	|	Red team management	|	Not started	|
-| [How Do You Actually Find Bugs?](https://www.youtube.com/watch?v=7Ysy6iA2sqA) |       Methodology of vulnerability research   |       Not started     |
+| [How Do You Actually Find Bugs?](https://www.youtube.com/watch?v=7Ysy6iA2sqA) |       Methodology of vulnerability research   |       Done     |
 | [Write My Own Security Tooling & Why You Should Too!](https://www.youtube.com/watch?v=c2HVyPDJdq4)	|	Methodology of vulnerability research   |       Not started     |
 | [Security Research and the Creative Process](https://medium.com/@yardenshafir2/security-research-and-the-creative-process-552fd91f52a7)	|	Methodology of vulnerability research   |       Done     |
 | [Researchers, what do you use as your source of inspiration?](https://twitter.com/_xpn_/status/1515987957894848513)	|	Methodology of vulnerability research   |       Not started     |
