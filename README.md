@@ -204,3 +204,5 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [How to Build a Product that Scales into a Company](https://www.youtube.com/watch?v=r-98YRAF1dY)      |       Entrepreneurship        | Not started   |
 | [Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass](https://www.amazon.com/Ghost-Work-Silicon-Building-Underclass/dp/1328566242)	|	How technology changed labor market and how people live	|	Not started	|
 | [The subtle art of not giving a fuck](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)	|	Life advice	|	In progress	|
+| | |
+| [The 5DC dimensions of curiosity and curious people](https://oxford-review.com/the-5dc-dimensions-of-curiosity-and-the-curious-people/)	|	Psychology of curiosity	|	Done	|
