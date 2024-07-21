@@ -207,3 +207,4 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Speed matters: Why working quickly is more important than it seems](https://jsomers.net/blog/speed-matters)	|	
 | | |
 | [The 5DC dimensions of curiosity and curious people](https://oxford-review.com/the-5dc-dimensions-of-curiosity-and-the-curious-people/)	|	Psychology of curiosity	|	Done	|
+| [Math\'s pedagogical curse \| Grant Sanderson JPBM Award Lecture, JMM 2023](https://www.youtube.com/watch?v=UOuxo6SA8Uc)	|	Learning/ teaching skills	|	Done	|
