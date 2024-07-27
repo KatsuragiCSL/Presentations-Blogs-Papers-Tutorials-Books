@@ -1,10 +1,10 @@
 # Presentations-Blogs-Papers-Tutorials-Books
-This is a place to share the presentations, blog posts, papers, tutorials, books etc. I have watched/ planed to watch, mainly related to hacking, coding & learning.
+This is a place to share the presentations, blog posts, papers, tutorials, books etc. I have watched/ planed to watch, mainly related to hacking, coding & learning, sometimes just some insightful content that I think they would nurture everyone's mind. Pretty much like a personal book catalog but not only for books.
 
 **Course list**
 | Course      | Learning point | Status     |
 | :---        | :----          | :---       |
-| [High-Level Approaches for Finding Vulnerabilities](https://jackson_t.gitlab.io/finding-vulnerabilities.html)	|	bug hunting methodology	|	Not started	|
+| [High-Level Approaches for Finding Vulnerabilities](https://jackson_t.gitlab.io/finding-vulnerabilities.html)	|	bug hunting methodology	|	Done	|
 | [What Makes Software Exploitation Hard?](https://www.youtube.com/watch?v=ZKIIPu1wqHs)	|	Exploit Mitigation	|	Done	|
 | [Operational Mental Models](https://jackson_t.gitlab.io/operational-mental-models.html)	|	Mental model for offensive R&D	|	Not started	|
 | [It Depends: Why Managing Nuance Matters for Red Teams](https://jackson_t.gitlab.io/it-depends.html)	|	Red team management	|	Not started	|
@@ -177,7 +177,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Career / Interview Advice for Reverse Engineers](https://www.youtube.com/watch?v=5PTeYipf8mc)	|	career advice	|	Not started	|
 | [Elitism as the Mid-Career Growth Engine](https://stkbailey.substack.com/p/elitism-as-the-mid-career-growth)	|	career advice   |       Done     |
 | [The Software Engineer's Guidebook](https://www.engguidebook.com/)	|	career advice	|	Not started	|
-| [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)	|	career advice	|	Not started	|
+| [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)	|	career advice	|	In progress	|
 | [Career advice by Terence Tao](https://terrytao.wordpress.com/career-advice/)	|	career advice   |       Not started     |
 | [What "Follow Your Dreams" Misses \| Harvey Mudd Commencement Speech 2024](https://www.youtube.com/watch?v=W3I3kAg2J7w)	|	career advice	|	Done	|
 | [Why I Love Offensive Work, Why I don't Love Offensive Work](https://www.youtube.com/watch?v=8QRnOpjmneo)	|	career advice   |       Done     |
