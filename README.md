@@ -209,3 +209,4 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [The 5DC dimensions of curiosity and curious people](https://oxford-review.com/the-5dc-dimensions-of-curiosity-and-the-curious-people/)	|	Psychology of curiosity	|	Done	|
 | [Math\'s pedagogical curse \| Grant Sanderson JPBM Award Lecture, JMM 2023](https://www.youtube.com/watch?v=UOuxo6SA8Uc)	|	Learning/ teaching skills	|	Done	|
 | [Tips to be a better problem solver(3blue1brown)](https://www.youtube.com/watch?v=QvuQH4_05LI)	|	Problem solving	|	Done	|
+| [The Potential for AI in Science and Mathematics - Terence Tao](https://www.youtube.com/watch?v=_sTDSO74D8Q)	|	AI and science	|	Done	|
