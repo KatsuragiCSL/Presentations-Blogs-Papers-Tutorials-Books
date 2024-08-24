@@ -205,8 +205,9 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass](https://www.amazon.com/Ghost-Work-Silicon-Building-Underclass/dp/1328566242)	|	How technology changed labor market and how people live	|	Not started	|
 | [The subtle art of not giving a fuck](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)	|	Life advice	|	In progress	|
 | [Speed matters: Why working quickly is more important than it seems](https://jsomers.net/blog/speed-matters)	|	
-| | |
 | [The 5 dimensions of curiosity and curious people](https://oxford-review.com/the-5dc-dimensions-of-curiosity-and-the-curious-people/)	|	Psychology of curiosity	|	Done	|
 | [Math\'s pedagogical curse \| Grant Sanderson JPBM Award Lecture, JMM 2023](https://www.youtube.com/watch?v=UOuxo6SA8Uc)	|	Learning/ teaching skills	|	Done	|
 | [Tips to be a better problem solver(3blue1brown)](https://www.youtube.com/watch?v=QvuQH4_05LI)	|	Problem solving	|	Done	|
+| [Why is Ukraine the West's Fault?](https://www.youtube.com/watch?v=JrMiSQAGOS4&t=126s)	|	Ukraine crisis and mistakes of the west	|	Done	|
+| | |
 | [Ten Signs a Claimed Mathematical Breakthrough is Wrong](https://scottaaronson.blog/?p=304)	|	How to tell a paper is likely crap	|	Done	|
