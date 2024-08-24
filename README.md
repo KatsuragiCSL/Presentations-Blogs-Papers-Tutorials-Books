@@ -113,7 +113,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Low-Level Process Hunting on macos](https://themittenmac.com/low-level-process-hunting-on-macos/)	| Mac threat hunting	| Not started	|
 | [App-Store-Malware-Automatic-Hunting-System](https://github.com/lilang-wu/iOS-AppStore-Malware-Automatic-Hunting-System)	|	iOS malware automated analysis	|	Not started	|
 | [Ten process injection techniques: A technical survey of common and trending process injection techniques](https://www.elastic.co/blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)		|	Malwares, process injections	|	Not started	|
-| [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing/)	|	RE tutorials for x86 and ARM	|
+| [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing/)	|	RE tutorials for x86 and ARM	|	Not started	|
 | [Static binary analysis: the essentials](https://www.youtube.com/watch?v=nC98-ywm7lU)	|	Basics of static reverse engineering	|	Not started	|
 | [Basic Dynamic Analysis with IDA Pro and WinDBG](https://www.youtube.com/watch?v=_ACDiW2I4ns)	|	Basics of dynamic reverse engineering    |       Not started     |
 | [An Exercise in Dynamic Analysis](https://windows-internals.com/an-exercise-in-dynamic-analysis/)	|	Brain dump of RE/ security research process	|	Not started	|
@@ -176,7 +176,6 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [How to become the best Malware Analyst E-V-E-R](http://www.hexacorn.com/blog/2018/04/14/how-to-become-the-best-malware-analyst-e-v-e-r/)	|	advice in learning malware analysis	|	Not started	|
 | [Career / Interview Advice for Reverse Engineers](https://www.youtube.com/watch?v=5PTeYipf8mc)	|	career advice	|	Not started	|
 | [Elitism as the Mid-Career Growth Engine](https://stkbailey.substack.com/p/elitism-as-the-mid-career-growth)	|	career advice   |       Done     |
-| [The Software Engineer's Guidebook](https://www.engguidebook.com/)	|	career advice	|	Not started	|
 | [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)	|	career advice	|	In progress	|
 | [Career advice by Terence Tao](https://terrytao.wordpress.com/career-advice/)	|	career advice   |       Not started     |
 | [What "Follow Your Dreams" Misses \| Harvey Mudd Commencement Speech 2024](https://www.youtube.com/watch?v=W3I3kAg2J7w)	|	career advice	|	Done	|
