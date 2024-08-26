@@ -177,7 +177,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Career / Interview Advice for Reverse Engineers](https://www.youtube.com/watch?v=5PTeYipf8mc)	|	career advice	|	Not started	|
 | [Elitism as the Mid-Career Growth Engine](https://stkbailey.substack.com/p/elitism-as-the-mid-career-growth)	|	career advice   |       Done     |
 | [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)	|	career advice	|	In progress	|
-| [Career advice by Terence Tao](https://terrytao.wordpress.com/career-advice/)	|	career advice   |       Not started     |
+| [Career advice by Terence Tao](https://terrytao.wordpress.com/career-advice/)	|	career advice   |       Done     |
 | [What "Follow Your Dreams" Misses \| Harvey Mudd Commencement Speech 2024](https://www.youtube.com/watch?v=W3I3kAg2J7w)	|	career advice	|	Done	|
 | [Why I Love Offensive Work, Why I don't Love Offensive Work](https://www.youtube.com/watch?v=8QRnOpjmneo)	|	career advice   |       Done     |
 | [Project Zero: Five Years of 'Make 0Day Hard'](https://www.youtube.com/watch?v=vn7YIAiOnYw)	|	learning	|	Not started	|
@@ -207,6 +207,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [The 5 dimensions of curiosity and curious people](https://oxford-review.com/the-5dc-dimensions-of-curiosity-and-the-curious-people/)	|	Psychology of curiosity	|	Done	|
 | [Math\'s pedagogical curse \| Grant Sanderson JPBM Award Lecture, JMM 2023](https://www.youtube.com/watch?v=UOuxo6SA8Uc)	|	Learning/ teaching skills	|	Done	|
 | [Tips to be a better problem solver(3blue1brown)](https://www.youtube.com/watch?v=QvuQH4_05LI)	|	Problem solving	|	Done	|
+| [The Complete Problem Solver](https://www.amazon.com/Complete-Problem-Solver-Second/dp/0805803092)	|	Problem solving psychology	|	In progress	|
 | [Why is Ukraine the West's Fault?](https://www.youtube.com/watch?v=JrMiSQAGOS4&t=126s)	|	Ukraine crisis and mistakes of the west	|	Done	|
 | | |
 | [Ten Signs a Claimed Mathematical Breakthrough is Wrong](https://scottaaronson.blog/?p=304)	|	How to tell a paper is likely crap	|	Done	|
