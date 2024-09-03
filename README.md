@@ -73,7 +73,6 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Rustproofing Linux](https://research.nccgroup.com/2023/02/06/rustproofing-linux-part-1-4-leaking-addresses/)	|	linux rust code audit	|	Not started     |
 | [Rooting with root cause: finding a variant of a Project Zero bug](https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/)	|	ARM driver bugs writeup	|	Not started	|
 | [Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)	|	Firmware/ hackware hacking, emulation	|	Not started	|
-| [FIRMWARE SECURITY: A GUIDE TO LEARNING FIRMWARE PENTESTING FROM ZERO TO ONE](https://store.expliot.io/blogs/iot/firmware-security-fu-a-guide-to-learning-firmware-pentesting-from-zero-to-one)	|	firmware security learning guide	|	Not started	|
 | [Beaconfuzz](https://www.youtube.com/watch?v=nERNZ5mL46Q)	|	blockchain fuzzing	|	Not started	|
 | | |
 | [Your Mitigations Are My Opportunities](https://www.youtube.com/watch?v=YnxGW8Fvqvk)	|	windows exploitation	|	Not started	|
@@ -180,7 +179,6 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Career advice by Terence Tao](https://terrytao.wordpress.com/career-advice/)	|	career advice   |       Done     |
 | [What "Follow Your Dreams" Misses \| Harvey Mudd Commencement Speech 2024](https://www.youtube.com/watch?v=W3I3kAg2J7w)	|	career advice	|	Done	|
 | [Why I Love Offensive Work, Why I don't Love Offensive Work](https://www.youtube.com/watch?v=8QRnOpjmneo)	|	career advice   |       Done     |
-| [Project Zero: Five Years of 'Make 0Day Hard'](https://www.youtube.com/watch?v=vn7YIAiOnYw)	|	learning	|	Not started	|
 | [Unlocking Your Intuition: How to Solve Hard Problems Easily](https://www.youtube.com/watch?v=1f6N2UrCK6o)	|	learning	|	Done	|
 | [How to Train Yourself to Visualize Anything](https://www.youtube.com/watch?v=p4xFVJTyJZg)	|	learning        |       Done    |
 | [The Black Box Method: How to Learn Hard Concepts Quickly](https://www.youtube.com/watch?v=RDzsrmMl48I)	|	learning 	|	Done     |
