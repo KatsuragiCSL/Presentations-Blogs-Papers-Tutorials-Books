@@ -31,7 +31,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Deconstructing programs for compiler fuzzing](https://comby.dev/blog/2022/04/11/comby-decomposer-compiler-fuzzing)	|	Compiler fuzzing	|	Not started	|
 | [Adventures in Fuzzing Instruction Selection](https://www.youtube.com/watch?v=UBbQ_s6hNgg)	|	Compiler fuzzing        |       Not started     |
 | [DNS parser, meet Go fuzzer](https://blog.cloudflare.com/dns-parser-meet-go-fuzzer/)	|	GO fuzzing	|	Not started	|
-| [Inside the Black Box /| How We Fuzzed Microsoft Defender for IoT and Found Multiple Vulnerabilities](https://www.sentinelone.com/labs/inside-the-black-box-how-we-fuzzed-microsoft-defender-for-iot-and-found-multiple-vulnerabilities/)	|	Fuzzing microsoft defender	|	Not started	|
+| [Inside the Black Box \| How We Fuzzed Microsoft Defender for IoT and Found Multiple Vulnerabilities](https://www.sentinelone.com/labs/inside-the-black-box-how-we-fuzzed-microsoft-defender-for-iot-and-found-multiple-vulnerabilities/)	|	Fuzzing microsoft defender	|	Not started	|
 | [A gentle introduction to Linux Kernel fuzzing](https://blog.cloudflare.com/a-gentle-introduction-to-linux-kernel-fuzzing/)	|	Linux kernel fuzzing	|	Not started	|
 | [50 CVES IN 50 DAYS: FUZZING ADOBE READER](https://research.checkpoint.com/2018/50-adobe-cves-in-50-days/)	| Windows userspace fuzzing	| Not started	|
 | [BUGS ON THE WINDSHIELD: FUZZING THE WINDOWS KERNEL](https://research.checkpoint.com/2020/bugs-on-the-windshield-fuzzing-the-windows-kernel/)		| Windows kernel fuzzing	| Not started	|
