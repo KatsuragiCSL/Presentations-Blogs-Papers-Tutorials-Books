@@ -2,8 +2,8 @@
 This is a place to share the presentations, blog posts, papers, tutorials, books etc. I have watched/ planed to watch, mainly related to hacking, coding & learning, sometimes just some insightful content that I think they would nurture everyone's mind. Pretty much like a personal book catalog but not only for books.
 
 **Course list**
-| Course      | Learning point | Status     |
-| :---        | :----          | :---       |
+| Course      | Learning point | Status     |	Comments?	|
+| :---        | :----          | :---       |	:---		|
 | [High-Level Approaches for Finding Vulnerabilities](https://jackson_t.gitlab.io/finding-vulnerabilities.html)	|	bug hunting methodology	|	Done	|
 | [What Makes Software Exploitation Hard?](https://www.youtube.com/watch?v=ZKIIPu1wqHs)	|	Exploit Mitigation	|	Done	|
 | [Operational Mental Models](https://jackson_t.gitlab.io/operational-mental-models.html)	|	Mental model for offensive R&D	|	Not started	|
@@ -204,8 +204,9 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Speed matters: Why working quickly is more important than it seems](https://jsomers.net/blog/speed-matters)	|	
 | [The 5 dimensions of curiosity and curious people](https://oxford-review.com/the-5dc-dimensions-of-curiosity-and-the-curious-people/)	|	Psychology of curiosity	|	Done	|
 | [Math\'s pedagogical curse \| Grant Sanderson JPBM Award Lecture, JMM 2023](https://www.youtube.com/watch?v=UOuxo6SA8Uc)	|	Learning/ teaching skills	|	Done	|
-| [Tips to be a better problem solver(3blue1brown)](https://www.youtube.com/watch?v=QvuQH4_05LI)	|	Problem solving	|	Done	|
-| [The Complete Problem Solver](https://www.amazon.com/Complete-Problem-Solver-Second/dp/0805803092)	|	Problem solving psychology	|	In progress	|
+| [Tips to be a better problem solver(3blue1brown)](https://www.youtube.com/watch?v=QvuQH4_05LI)	|	Problem solving	|	Done	|	Great exercises to learn the heuristics of problem solving	|
+| [Math texts, pi creatures, problem solving, etc. | 3blue1brown Q&A for Bilibili](https://www.youtube.com/watch?v=-bc9EWhmDZg)	|	Problem solving	|	Done	|	How to read textbooks, how you don't need to be genius to do math (same pov as terry tao), how to reflect on solved problems (cf polya), when visuals help and when it doesnt. Good misc myth breaking & advices	|
+| [The Complete Problem Solver](https://www.amazon.com/Complete-Problem-Solver-Second/dp/0805803092)	|	Problem solving psychology	|	Done	|	Explained the necessary pieces and the process of problem solving from psychological pov, got some good examples. But still can't beat Polya from practical pov.	|
 | [Why is Ukraine the West's Fault?](https://www.youtube.com/watch?v=JrMiSQAGOS4&t=126s)	|	Ukraine crisis and mistakes of the west	|	Done	|
 | | |
 | [Ten Signs a Claimed Mathematical Breakthrough is Wrong](https://scottaaronson.blog/?p=304)	|	How to tell a paper is likely crap	|	Done	|
