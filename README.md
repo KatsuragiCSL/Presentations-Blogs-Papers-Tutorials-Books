@@ -72,7 +72,6 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [You can be a kernel hacker!](https://jvns.ca/blog/2014/09/18/you-can-be-a-kernel-hacker/)	|	Starting linux kernel development	|	Not started	|
 | [Rustproofing Linux](https://research.nccgroup.com/2023/02/06/rustproofing-linux-part-1-4-leaking-addresses/)	|	linux rust code audit	|	Not started     |
 | [Rooting with root cause: finding a variant of a Project Zero bug](https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/)	|	ARM driver bugs writeup	|	Not started	|
-| [Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)	|	Firmware/ hackware hacking, emulation	|	Not started	|
 | [Beaconfuzz](https://www.youtube.com/watch?v=nERNZ5mL46Q)	|	blockchain fuzzing	|	Not started	|
 | | |
 | [Your Mitigations Are My Opportunities](https://www.youtube.com/watch?v=YnxGW8Fvqvk)	|	windows exploitation	|	Not started	|
@@ -108,7 +107,6 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Coverage-Guided USB Fuzzing with Syzkaller](https://www.youtube.com/watch?v=1MD5JV6LfxA)	|	USB fuzzing	|	Not started	|
 | [DNS Remote Code Execution: Finding the Vulnerability 👾](https://www.youtube.com/watch?v=xWoQ-E8n4B0)	|	how flashback team found router DNS RCE	|	Not started	|
 | | |
-| [Mastering the Art of SOC Analysis Part 1 | Fundamental Skills for Aspiring Security Operations Center Analysts](https://www.sentinelone.com/blog/mastering-the-art-of-soc-analysis-part-1/)	| SOC	| Not started	|
 | [Low-Level Process Hunting on macos](https://themittenmac.com/low-level-process-hunting-on-macos/)	| Mac threat hunting	| Not started	|
 | [App-Store-Malware-Automatic-Hunting-System](https://github.com/lilang-wu/iOS-AppStore-Malware-Automatic-Hunting-System)	|	iOS malware automated analysis	|	Not started	|
 | [Ten process injection techniques: A technical survey of common and trending process injection techniques](https://www.elastic.co/blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)		|	Malwares, process injections	|	Not started	|
