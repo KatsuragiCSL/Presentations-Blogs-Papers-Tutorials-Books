@@ -156,7 +156,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [bellebytes-osint-guide](http://web.archive.org/web/20211020073413/https://stormctf.ninja/ctf/blog/stormctf/bellebytes-osint-guide)	OSINT	|	Not started	|
 | [Bellingcat's Online Investigation Toolkit](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=118277455)	|	bellingcat OSINT resources	|	Not started	|
 | [How to Create an Anonymous Identity](https://www.youtube.com/watch?v=8eUieqRrU7s)	|	operation security	|	Not started	|
-| [Physical Security - Everything That's Wrong With Your Typical Door](https://www.youtube.com/watch?v=raBMFqZRB0s)	|	physical pentest	|	Not started	|
+| [Physical Security - Everything That's Wrong With Your Typical Door](https://www.youtube.com/watch?v=raBMFqZRB0s)	|	physical pentest	|	Done	|
 | [Tactics of Physical Pen Testers](https://www.youtube.com/watch?v=VJ4FDOw9NcI)	|	physical pentest        |       Not started     |
 | [How To Become a Physical Penetration Tester](https://www.youtube.com/watch?v=zNOO702dEl4)	|	becoming physical security consultant	|	Not started	|
 | [Lockpicking Forensics](https://www.youtube.com/watch?v=AVZzBjK1kmI)	|	Lockpicking forensics	|	Not started	|
