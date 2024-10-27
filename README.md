@@ -207,5 +207,6 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [The Complete Problem Solver](https://www.amazon.com/Complete-Problem-Solver-Second/dp/0805803092)	|	Problem solving psychology	|	Done	|	Explained the necessary pieces and the process of problem solving from psychological pov, got some good examples. But still can't beat Polya from practical pov.	|
 | [The Essentials of Problem Solving](https://www.youtube.com/watch?v=6DxTQiJuAoc)	|	Problem solving	|	Done	|	Good demonstration of how do "insight problems" work, what are the blockers of getting insight. Differentiated things that I used to call heuristics e.g. big ideas, strategy and personal traits	|
 | [Why is Ukraine the West's Fault?](https://www.youtube.com/watch?v=JrMiSQAGOS4&t=126s)	|	Ukraine crisis and mistakes of the west	|	Done	|
+| [Letters to a Young Mathematician](https://www.amazon.com/Letters-Young-Mathematician-Mentoring-Paperback/dp/0465082327)	|	Maths career advices	|	Done	|
 | | |
 | [Ten Signs a Claimed Mathematical Breakthrough is Wrong](https://scottaaronson.blog/?p=304)	|	How to tell a paper is likely crap	|	Done	|
