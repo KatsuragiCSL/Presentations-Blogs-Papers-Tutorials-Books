@@ -198,7 +198,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [The Design Of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)	|	Psychology of design	|	In progress	|
 | [How to Build a Product that Scales into a Company](https://www.youtube.com/watch?v=r-98YRAF1dY)      |       Entrepreneurship        | Not started   |
 | [Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass](https://www.amazon.com/Ghost-Work-Silicon-Building-Underclass/dp/1328566242)	|	How technology changed labor market and how people live	|	Not started	|
-| [The subtle art of not giving a fuck](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)	|	Life advice	|	In progress	|
+| [The subtle art of not giving a fuck](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)	|	Life advice	|	Done	|	The lessons any intact adult should have learnt for having a strong heart and sustainable way of living	|
 | [Speed matters: Why working quickly is more important than it seems](https://jsomers.net/blog/speed-matters)	|	
 | [The 5 dimensions of curiosity and curious people](https://oxford-review.com/the-5dc-dimensions-of-curiosity-and-the-curious-people/)	|	Psychology of curiosity	|	Done	|
 | [Math\'s pedagogical curse \| Grant Sanderson JPBM Award Lecture, JMM 2023](https://www.youtube.com/watch?v=UOuxo6SA8Uc)	|	Learning/ teaching skills	|	Done	|
