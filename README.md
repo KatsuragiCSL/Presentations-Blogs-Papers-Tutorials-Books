@@ -93,6 +93,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | | |
 | [Mobile Exploitation, the past, present, and future](https://github.com/externalist/presentations/blob/master/2023%20Zer0con/Mobile%20Exploitation%2C%20the%20past%2C%20present%2C%20and%20future.pdf)	|	Mobile exploitations	|	Not started	|
 | [DIFUZE: Android Kernel Driver Fuzzing](https://www.youtube.com/watch?v=XFDHzSLGx7o)	|	Android, fuzzing	|	Not started	|
+| [Physical Attacks Against Smartphones](https://www.youtube.com/watch?v=31xrNuH1RV4)   |   Android, physical attacks   |   Not started |
 | [We Can Still Crack You! General Unpacking Method For Android Packer (no Root)](https://www.youtube.com/watch?v=UVCckhcuoec)	|	Android, packing	|	Not started	|
 | [IOS Deep Link Attacks](https://8ksec.io/ios-deeplink-attacks-part-1-introduction-8ksec-blogs/)	|	iOS exploit	|	Not started	|
 | | |
