@@ -1,5 +1,5 @@
 # Presentations-Blogs-Papers-Tutorials-Books
-This is a place to share the presentations, blog posts, papers, tutorials, books etc. I have watched/ planed to watch, mainly related to hacking, coding & learning, sometimes just some insightful content that I think they would nurture everyone's mind. Pretty much like a personal book catalog but not only for books.
+This is a place to share the presentations, blog posts, papers, tutorials, books etc. I have watched/ planed to watch, not only related to hacking, coding and learning, just some insightful content that I think they would nurture everyone's mind. Pretty much like a personal book catalog but not only for books.
 
 **Course list**
 | Course      | Learning point | Status     |	Comments?	|
@@ -166,27 +166,23 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Tor: Darknet OpSec By a Veteran Darknet Vendor & the Hackers Mentality](https://www.youtube.com/watch?v=NGiUhjuB22Y)	|	OpSec   |       Done     |
 | | |
 | [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)	|	Speech skills	|	Done	|
+| [Becoming Fluent](https://www.amazon.com/Becoming-Fluent-Cognitive-Science-Language/dp/0262529807)	|	Language learning	|	In progress	|
 | [From Noob to Less Noob "Wisdom" from 10 years of CTFs](https://docs.google.com/presentation/d/1Qz7doMIRqgLc_X0_KA1qYY-CwF1fAeG1MQw2zZvK0Rs/edit#slide=id.p)	|	How to improve yourself when you are not the smartest among people arround you	|	Done	|
 | [Should I read papers?](https://michaelrbernste.in/2014/10/21/should-i-read-papers.html)	|	Research	|	Done	|
-| [research101](https://github.com/drtychai/research101)	|	how to start doing research, tips for learning and staying updated	|	Done	|
-| [How I choose a security research topic](https://portswigger.net/research/how-i-choose-a-security-research-topic)	|	how to do research	|	Done	|
+| [research101](https://github.com/drtychai/research101)	|	how to start doing research, tips for learning and staying updated	|	Done	|	Research mindset	|
+| [How I choose a security research topic](https://portswigger.net/research/how-i-choose-a-security-research-topic)	|	how to do research	|	Done	|	Research mindset	|
 | [How to become the best Malware Analyst E-V-E-R](http://www.hexacorn.com/blog/2018/04/14/how-to-become-the-best-malware-analyst-e-v-e-r/)	|	advice in learning malware analysis	|	Not started	|
 | [Career / Interview Advice for Reverse Engineers](https://www.youtube.com/watch?v=5PTeYipf8mc)	|	career advice	|	Not started	|
-| [Elitism as the Mid-Career Growth Engine](https://stkbailey.substack.com/p/elitism-as-the-mid-career-growth)	|	career advice   |       Done     |
+| [Elitism as the Mid-Career Growth Engine](https://stkbailey.substack.com/p/elitism-as-the-mid-career-growth)	|	career advice   |       Done     |	Go after excellence	|
 | [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)	|	career advice	|	Done	|	Teach you how to excel as a senior engineers like you are 5 (or a junior one)	|
 | [Career advice by Terence Tao](https://terrytao.wordpress.com/career-advice/)	|	career advice   |       Done     |
 | [What "Follow Your Dreams" Misses \| Harvey Mudd Commencement Speech 2024](https://www.youtube.com/watch?v=W3I3kAg2J7w)	|	career advice	|	Done	|
 | [Why I Love Offensive Work, Why I don't Love Offensive Work](https://www.youtube.com/watch?v=8QRnOpjmneo)	|	career advice   |       Done     |
-| [Unlocking Your Intuition: How to Solve Hard Problems Easily](https://www.youtube.com/watch?v=1f6N2UrCK6o)	|	learning	|	Done	|
-| [How to Train Yourself to Visualize Anything](https://www.youtube.com/watch?v=p4xFVJTyJZg)	|	learning        |       Done    |
-| [The Black Box Method: How to Learn Hard Concepts Quickly](https://www.youtube.com/watch?v=RDzsrmMl48I)	|	learning 	|	Done     |
-| [How to Awaken & Enhance Your Analytical Problem-Solving Mind](https://www.youtube.com/watch?v=-jmxvq0rF9o)	|	learning        |       Done     |
-| [Focusing Your Unconscious Mind: Learn Hard Concepts Intuitively (And Forever)](https://www.youtube.com/watch?v=Dm68uFy6gus)	|	learning        |       Done     |
-| [Learning to Learn: Math Abstraction](https://betterexplained.com/articles/learning-to-learn-math-abstraction/)	| Learning, Maths	|	Done	|
-| [Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/)	|	learning	|	Done	|
+| [Learning to Learn: Math Abstraction](https://betterexplained.com/articles/learning-to-learn-math-abstraction/)	| Learning, Maths	|	Done	|	The correct mindset of when learning concepts	|
+| [Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/)	|	learning	|	Done	|	How to think of things in different level of abstraction	|
 | [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)	|	Learning, programming	| Done	|
 | [How the Best Hackers Learn Their Craft](https://www.youtube.com/watch?v=6vj96QetfTg)	|	Learning, CTF   |       Done     |
-| [Becoming a full-stack reverse-engineer](https://www.youtube.com/watch?v=9vKG8-TnawY)	|	Learning, reverse engineering	|	Done	|
+| [Becoming a full-stack reverse-engineer](https://www.youtube.com/watch?v=9vKG8-TnawY)	|	Learning, reverse engineering	|	Done	|	Suggested roadmap of learning to RE. Aim to push you to learn how copmuters work from the CSAPP level to building emulators from scratch. Really all arounded if you can excel all of them.	|
 | [How I Rob Banks: And Other Such Places](https://www.amazon.com/How-Rob-Banks-Other-Places/dp/1119911478)	|	Physical pentesting, Social engineering	|	Not started	|
 | [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)	|	Soft skills	|	Not started	|
 | [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)	|	Historical approach of introdution to computation	|	In progress	|
