@@ -131,7 +131,6 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | | |
 | [Let's build a Chrome extension that steals everything](https://mattfrisbie.substack.com/p/spy-chrome-extension)	|	place holder	|	Not started	|
 | [No Key No PIN No Combo No Problem Pwning ATMs For Fun and Profit](https://www.youtube.com/watch?v=9cG-JL0LHYw)	|	ATM hacking with references to prior arts	|	Not started	|
-| [How to Lose at Tetris](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.55.8562&rep=rep1&type=pdf)	|	tetris proof	|	Not started	|
 | [Abusing Password Managers with XSS](https://www.youtube.com/watch?v=oMw7vjbYF_U)	|	password managers	|	Not started	|
 | [Reverse Engineering Coin Hunt World’s Binary Protocol](https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/)	|	placeholder	|	Not started	|
 | [Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”](https://securityintelligence.com/x-force/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/)	|	exploit analysis	|	Not started	|
