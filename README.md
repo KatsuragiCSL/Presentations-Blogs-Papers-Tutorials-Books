@@ -150,8 +150,6 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)	|	place holder	| Not started	|
 | [RECOVERING A FULL PEM PRIVATE KEY WHEN HALF OF IT IS REDACTED](https://blog.cryptohack.org/twitter-secrets)	|	Cryptography	| Not started	|
 | [Never, Ever, Ever Use Pixelation for Redacting Text](https://bishopfox.com/blog/unredacter-tool-never-pixelation)	|	de-pixelation	|	Not started	|
-| [Stealing Profits from Spammers or: How I learned to Stop Worrying and Love the Spam](https://www.youtube.com/watch?v=ytDamqTjPwg)	|	stock spam study	|	Not started	|
-| [Stealing Bitcoin with Math](https://www.youtube.com/watch?v=f2s3_UG9IPU)	|	Cryptocurrency	|	Not started	|
 | [The Blockchain Developer: A Practical Guide for Designing, Implementing, Publishing, Testing, and Securing Distributed Blockchain-based Projects](https://www.amazon.com/Blockchain-Developer-Implementing-Distributed-Blockchain-based/dp/1484248465)	|	blockchain development	|	Not started	|
 | [The Basics of Social Engineering](https://www.youtube.com/watch?v=tCRT3QFzwm8)	|	Social engineering	|	Done	|
 | [bellebytes-osint-guide](http://web.archive.org/web/20211020073413/https://stormctf.ninja/ctf/blog/stormctf/bellebytes-osint-guide)	OSINT	|	Not started	|
