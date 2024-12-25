@@ -50,6 +50,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Attacking JavaScript Engines in 2022](https://www.youtube.com/watch?v=FK2-1FAbbXA)	|	js engine exploit	|	Not started	|
 | [FUZZORIGIN: Detecting UXSS vulnerabilities in Browsers through Origin Fuzzing](https://lifeasageek.github.io/papers/sunwoo-fuzzorigin.pdf)	| browser logic bugs fuzzing	| Not started	|
 | [Attacking the DevTools](https://microsoftedge.github.io/edgevr/posts/attacking-the-devtools/)	|	hacking chrome devtools	|	Not started	|
+| [IPC Fuzzing with Snapshots](https://blog.mozilla.org/attack-and-defense/2024/06/24/ipc-fuzzing-with-snapshots/)	|	Firefox IPC fuzzing	|	Not started	|
 | [Effectively Fuzzing the IPC Layer in Firefox](https://blog.mozilla.org/attack-and-defense/2021/01/27/effectively-fuzzing-the-ipc-layer-in-firefox/)	|	Firefox IPC fuzzing	|	Not started	|
 | [Examining JavaScript Inter-Process Communication in Firefox](https://blog.mozilla.org/attack-and-defense/2021/04/27/examining-javascript-inter-process-communication-in-firefox/)	|	Firefox IPC in Javascript	|	Not started	|
 | [Guest Blog Post: Good First Steps to Find Security Bugs in Fenix (Part 1)](https://blog.mozilla.org/attack-and-defense/2020/12/08/good-first-steps-in-fenix-part-1/)		|	Bug hunting in Fenix (Android Firefox)	|	Not started	|
