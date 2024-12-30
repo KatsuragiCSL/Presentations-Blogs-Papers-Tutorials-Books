@@ -47,6 +47,8 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [A Story of a Bug Found Fuzzing](https://microsoftedge.github.io/edgevr/posts/a-story-of-a-bug-found-fuzzing/#what-happened)	| fuzzer development	| Not started	|
 | [Fuzzing Like A Caveman](https://h0mbre.github.io/Fuzzing-Like-A-Caveman/#)	| implementing fuzzing from scratch	| Not started	|
 | [A Methodical Approach to Browser Exploitation](https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/)	| browser exploitation	| Not started	|
+| [Browser Exploitation Workshop](https://www.youtube.com/live/b9OhamkAY2I)	|	Browser exploitation by Alisa Esage	|	Not started	|
+| [Javascript Engines Vulnerability Research: State of the Art](https://www.youtube.com/watch?v=YpsfQl0V_3k)	|	Javascript engines exploit by Alisa Esage	|	Not started	|
 | [Attacking JavaScript Engines in 2022](https://www.youtube.com/watch?v=FK2-1FAbbXA)	|	js engine exploit	|	Not started	|
 | [FUZZORIGIN: Detecting UXSS vulnerabilities in Browsers through Origin Fuzzing](https://lifeasageek.github.io/papers/sunwoo-fuzzorigin.pdf)	| browser logic bugs fuzzing	| Not started	|
 | [Attacking the DevTools](https://microsoftedge.github.io/edgevr/posts/attacking-the-devtools/)	|	hacking chrome devtools	|	Not started	|
@@ -165,7 +167,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | | |
 | [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)	|	Presenting skills	|	Done	|	General advices + how to sell yourself	|
 | [How to Give a Great Research Talk](https://www.youtube.com/watch?v=ot_McoYlwUo)	|	Techniques for presenting technical topics	|	Done	|	General advice, more focus on putting yourself in audience's shoes and interaction	|
-| [Becoming Fluent](https://www.amazon.com/Becoming-Fluent-Cognitive-Science-Language/dp/0262529807)	|	Language learning	|	In progress	|
+| [Becoming Fluent](https://www.amazon.com/Becoming-Fluent-Cognitive-Science-Language/dp/0262529807)	|	Language learning	|	Done	|	Introduce cognitive science concepts that helps language learning, such as those about memory, metacognition, communication, cultural differences and psychology of learning	|
 | [From Noob to Less Noob "Wisdom" from 10 years of CTFs](https://docs.google.com/presentation/d/1Qz7doMIRqgLc_X0_KA1qYY-CwF1fAeG1MQw2zZvK0Rs/edit#slide=id.p)	|	How to improve yourself when you are not the smartest among people arround you	|	Done	|
 | [Should I read papers?](https://michaelrbernste.in/2014/10/21/should-i-read-papers.html)	|	Research	|	Done	|
 | [research101](https://github.com/drtychai/research101)	|	how to start doing research, tips for learning and staying updated	|	Done	|	Research mindset	|
