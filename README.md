@@ -189,6 +189,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)	|	Historical approach of introdution to computation	|	Done	|	Fun overviewing journey to understand computer engineering from scratch (Morse code)	|
 | [The Architecture of Open Source Applications](https://aosabook.org/en/)	| architecture of great softwares	|	Not started	|
 | [Teaching Tech Together](https://teachtogether.tech/en/index.html)	| how to teach tech stuff and build a teaching community	|	Not started	|
+| [Skin in the game](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X)	|	principles of taking risks	|	In progress	|
 | [Mythical Man-Month, The: Essays on Software Engineering](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)	|	Software project management	|	Not started	|
 | [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)        |       project management      |       Not started     |
 | [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567)    |       placeholder     |       Not started     |
