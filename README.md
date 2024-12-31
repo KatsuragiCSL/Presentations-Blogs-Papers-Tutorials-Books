@@ -205,6 +205,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Math texts, pi creatures, problem solving, etc. \| 3blue1brown Q&A for Bilibili](https://www.youtube.com/watch?v=-bc9EWhmDZg)	|	Problem solving	|	Done	|	How to read textbooks, how you don't need to be genius to do math (same pov as terry tao), how to reflect on solved problems (cf polya), when visuals help and when it doesnt. Good misc myth breaking & advices	|
 | [The Complete Problem Solver](https://www.amazon.com/Complete-Problem-Solver-Second/dp/0805803092)	|	Problem solving psychology	|	Done	|	Explained the necessary pieces and the process of problem solving from psychological pov, got some good examples. But still can't beat Polya from practical pov.	|
 | [The Essentials of Problem Solving](https://www.youtube.com/watch?v=6DxTQiJuAoc)	|	Problem solving	|	Done	|	Good demonstration of how do "insight problems" work, what are the blockers of getting insight. Differentiated things that I used to call heuristics e.g. big ideas, strategy and personal traits	|
+| [The art of doing science and engineering](https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/1732265178)	|	Richard hamming's insights	|	In progress	|
 | [Why is Ukraine the West's Fault?](https://www.youtube.com/watch?v=JrMiSQAGOS4&t=126s)	|	Ukraine crisis and mistakes of the west	|	Done	|
 | [Letters to a Young Mathematician](https://www.amazon.com/Letters-Young-Mathematician-Mentoring-Paperback/dp/0465082327)	|	Maths career advices	|	Done	|
 | | |
