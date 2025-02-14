@@ -187,7 +187,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)	|	Learning, programming	| Done	|
 | [How the Best Hackers Learn Their Craft](https://www.youtube.com/watch?v=6vj96QetfTg)	|	Learning, CTF   |       Done     |
 | [Becoming a full-stack reverse-engineer](https://www.youtube.com/watch?v=9vKG8-TnawY)	|	Learning, reverse engineering	|	Done	|	Suggested roadmap of learning to RE. Aim to push you to learn how copmuters work from the CSAPP level to building emulators from scratch. Really all arounded if you can excel all of them.	|
-| [How I Rob Banks: And Other Such Places](https://www.amazon.com/How-Rob-Banks-Other-Places/dp/1119911478)	|	Physical pentesting, Social engineering	|	Not started	|
+| [How I Rob Banks: And Other Such Places](https://www.amazon.com/How-Rob-Banks-Other-Places/dp/1119911478)	|	Physical pentesting, Social engineering	|	In progress	|
 | [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)	|	Soft skills	|	Not started	|
 | [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)	|	Historical approach of introdution to computation	|	Done	|	Fun overviewing journey to understand computer engineering from scratch (Morse code)	|
 | [The Architecture of Open Source Applications](https://aosabook.org/en/)	| architecture of great softwares	|	Not started	|
