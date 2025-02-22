@@ -165,7 +165,7 @@ This is a place to share the presentations, blog posts, papers, tutorials, books
 | [The Grugq - OPSEC: Because Jail is for wuftpd](https://www.youtube.com/watch?v=9XaYdCdwiWU)	|	OpSec   |       Not started     |
 | [Tor: Darknet OpSec By a Veteran Darknet Vendor & the Hackers Mentality](https://www.youtube.com/watch?v=NGiUhjuB22Y)	|	OpSec   |       Done     |
 | | |
-| [Lessons from history](https://www.amazon.com/Lessons-History-Will-Durant/dp/143914995X)	|	history	|	In progress	|
+| [Lessons from history](https://www.amazon.com/Lessons-History-Will-Durant/dp/143914995X)	|	history	|	Done	|
 | [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)	|	Presenting skills	|	Done	|	General advices + how to sell yourself	|
 | [How to Give a Great Research Talk](https://www.youtube.com/watch?v=ot_McoYlwUo)	|	Techniques for presenting technical topics	|	Done	|	General advice, more focus on putting yourself in audience's shoes and interaction	|
 | [Becoming Fluent](https://www.amazon.com/Becoming-Fluent-Cognitive-Science-Language/dp/0262529807)	|	Language learning	|	Done	|	Introduce cognitive science concepts that helps language learning, such as those about memory, metacognition, communication, cultural differences and psychology of learning	|
